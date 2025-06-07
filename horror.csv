@@ -1,0 +1,1033 @@
+MOVIE_NAME,GENRE,RATINGS,VOTING_COUNTS,DURATION
+The Substance,HORROR,7.2,310000.0,141
+Nosferatu,HORROR,7.2,204000.0,132
+Heretic,HORROR,7.0,150000.0,111
+Beetlejuice Beetlejuice,HORROR,6.6,152000.0,105
+Speak No Evil,HORROR,6.8,106000.0,110
+Trap,HORROR,5.8,143000.0,105
+Alien: Romulus,HORROR,7.1,250000.0,119
+Longlegs,HORROR,6.6,190000.0,101
+Presence,HORROR,6.1,24000.0,84
+Smile 2,HORROR,6.7,111000.0,127
+Abigail,HORROR,6.5,99000.0,109
+Terrifier 3,HORROR,6.3,50000.0,125
+MaXXXine,HORROR,6.2,72000.0,103
+Oddity,HORROR,6.7,45000.0,98
+The Damned,HORROR,5.7,5100.0,89
+Arcadian,HORROR,5.5,24000.0,92
+Salem's Lot,HORROR,5.6,34000.0,114
+Y2K,HORROR,4.8,16000.0,91
+A Quiet Place: Day One,HORROR,6.3,153000.0,99
+Kinds of Kindness,HORROR,6.5,60000.0,164
+The Crow,HORROR,4.7,36000.0,111
+Cuckoo,HORROR,5.7,28000.0,102
+The Watchers,HORROR,5.7,58000.0,102
+Azrael,HORROR,5.4,12000.0,86
+The Shrouds,HORROR,6.0,2500.0,120
+The Rule of Jenny Pen,HORROR,6.2,5400.0,104
+The Last Breath,HORROR,4.7,2400.0,96
+Don't Move,HORROR,5.8,40000.0,92
+Immaculate,HORROR,5.8,54000.0,89
+Nightbitch,HORROR,5.5,20000.0,99
+The First Omen,HORROR,6.5,65000.0,119
+Never Let Go,HORROR,5.4,16000.0,101
+MadS,HORROR,6.4,8400.0,89
+Bagman,HORROR,4.7,6000.0,93
+Get Away,HORROR,5.3,7300.0,86
+Apocalypse Z: The Beginning of the End,HORROR,6.1,20000.0,117
+In a Violent Nature,HORROR,5.6,27000.0,94
+Tarot,HORROR,4.8,32000.0,92
+Hellboy: The Crooked Man,HORROR,4.5,14000.0,99
+Time Cut,HORROR,5.0,19000.0,91
+I Don't Understand You,HORROR,6.9,93.0,96
+Werewolves,HORROR,4.4,7300.0,93
+Frewaka,HORROR,6.2,1100.0,103
+Night Swim,HORROR,4.7,28000.0,98
+Exhuma,HORROR,6.9,24000.0,134
+Dead Mail,HORROR,6.0,1700.0,106
+Afraid,HORROR,5.2,14000.0,84
+Apartment 7A,HORROR,5.9,17000.0,107
+Rumours,HORROR,5.0,4900.0,104
+The Deliverance,HORROR,5.1,23000.0,112
+Conjuring the Cult,HORROR,4.8,908.0,93
+Kryptic,HORROR,4.1,497.0,102
+The Strangers: Chapter 1,HORROR,4.6,23000.0,91
+A Sacrifice,HORROR,5.0,5600.0,94
+Under Paris,HORROR,5.2,37000.0,104
+Your Monster,HORROR,6.4,6000.0,103
+Die Alone,HORROR,5.7,3600.0,90
+The Beast Within,HORROR,4.3,5000.0,97
+Lisa Frankenstein,HORROR,6.1,28000.0,101
+Stream,HORROR,6.0,9400.0,123
+Witchboard,HORROR,7.6,98.0,115
+The Painted,HORROR,4.8,976.0,85
+The Severed Sun,HORROR,6.4,67.0,80
+The Platform 2,HORROR,4.9,41000.0,99
+The Devil's Bath,HORROR,6.6,6600.0,121
+Stree 2: Sarkate Ka Aatank,HORROR,6.9,43000.0,147
+The Moogai,HORROR,5.4,309.0,86
+The Ruse,HORROR,7.2,354.0,105
+Night of the Zoopocalypse,HORROR,6.0,841.0,91
+The Exorcism,HORROR,4.2,12000.0,95
+Sumala,HORROR,5.8,1100.0,112
+Lowlifes,HORROR,6.2,6600.0,90
+Succubus,HORROR,4.6,1400.0,103
+The Haunted Apartment: Miss K,HORROR,5.6,399.0,103
+Blackwater Lane,HORROR,4.6,2200.0,108
+Sting,HORROR,5.7,17000.0,91
+Daddy's Head,HORROR,5.6,5300.0,92
+Shell,HORROR,6.7,74.0,100
+Espantaho,HORROR,4.8,147.0,90
+Grafted,HORROR,5.6,2500.0,96
+The Balconettes,HORROR,5.9,1200.0,104
+V/H/S/Beyond,HORROR,5.8,9700.0,114
+Lembayung,HORROR,5.8,759.0,123
+Things Will Be Different,HORROR,5.2,2700.0,102
+Humane,HORROR,5.5,7400.0,93
+Dead Talents Society,HORROR,7.0,2300.0,111
+The Mouse Trap,HORROR,2.4,3500.0,80
+Pale Horse,HORROR,4.0,60.0,87
+The Inheritance,HORROR,4.7,3000.0,85
+Outside,HORROR,5.1,4700.0,142
+Hold Your Breath,HORROR,5.3,8800.0,94
+Imaginary,HORROR,4.7,17000.0,104
+They Call Her Death,HORROR,5.4,174.0,92
+Blood Star,HORROR,6.4,5600.0,97
+Winnie-the-Pooh: Blood and Honey 2,HORROR,4.7,12000.0,93
+The Front Room,HORROR,4.6,5600.0,94
+A Desert,HORROR,6.3,197.0,103
+Black Cab,HORROR,4.2,1800.0,88
+Frankie Freako,HORROR,5.6,1200.0,85
+We Bury the Dead,HORROR,7.1,116.0,94
+The Wailing,HORROR,6.1,1300.0,107
+Munjya,HORROR,6.3,26000.0,123
+The Soul Eater,HORROR,5.8,2800.0,108
+The Killgrin,HORROR,6.4,58.0,83
+Cloud,HORROR,6.3,1400.0,124
+Here After,HORROR,4.1,1600.0,93
+Dan Da Dan: First Encounter,HORROR,8.2,2800.0,83
+River of Blood,HORROR,5.1,1900.0,86
+Bramayugam,HORROR,7.8,14000.0,139
+Shaitaan,HORROR,6.5,55000.0,132
+The Radleys,HORROR,5.0,2900.0,115
+Bloody Axe Wound,HORROR,5.0,960.0,83
+Outbreak,HORROR,4.4,873.0,88
+Demonte Colony 2,HORROR,6.6,4500.0,144
+Pedro Páramo,HORROR,6.3,3100.0,130
+Compulsion,HORROR,7.0,18.0,0
+The Corpse Washer,HORROR,6.2,1300.0,107
+Drive Back,HORROR,4.5,583.0,94
+Bhool Bhulaiyaa 3,HORROR,4.6,78000.0,158
+Chime,HORROR,6.4,2400.0,45
+Handling the Undead,HORROR,5.3,4500.0,97
+Room Service,HORROR,3.8,312.0,47
+House of Spoils,HORROR,5.0,3900.0,101
+Desert Fiends,HORROR,5.2,812.0,106
+Anaconda,HORROR,4.9,654.0,84
+Scurry,HORROR,7.6,26.0,90
+Milk & Serial,HORROR,6.6,2600.0,62
+Sunrise,HORROR,3.8,1200.0,93
+Mr. Crocket,HORROR,5.4,4700.0,88
+Spin the Bottle,HORROR,3.5,989.0,124
+Beezel,HORROR,4.8,1400.0,81
+Saint Catherine,HORROR,4.2,142.0,86
+The Bunker,HORROR,4.3,327.0,92
+Queen of Bones,HORROR,4.8,234.0,90
+Baby Invasion,HORROR,4.7,534.0,80
+Dark Match,HORROR,5.4,994.0,94
+Munkar,HORROR,5.2,538.0,87
+Rippy,HORROR,4.2,935.0,83
+Destroy All Neighbors,HORROR,5.3,2100.0,85
+#AMFAD: All My Friends Are Dead,HORROR,4.5,1300.0,91
+Solitude,HORROR,6.3,39.0,97
+Invasive,HORROR,5.6,782.0,97
+Hide N Seek,HORROR,8.8,2200.0,134
+Handsome Guys,HORROR,6.5,921.0,101
+Shelby Oaks,HORROR,5.9,250.0,99
+Bloodline Killer,HORROR,4.3,5000.0,105
+Carved,HORROR,4.4,2800.0,95
+Bureau 749,HORROR,4.0,565.0,123
+Little Bites,HORROR,4.7,1300.0,105
+Terminator: Skynet Rising,HORROR,6.6,276.0,88
+Parvulos,HORROR,6.6,348.0,119
+The Witch: Revenge,HORROR,5.3,859.0,100
+Hell Hole,HORROR,4.5,1300.0,92
+Crescent City,HORROR,3.9,1400.0,103
+The Dead Thing,HORROR,4.8,980.0,94
+Please Don't Feed the Children,HORROR,5.5,68.0,94
+The Curse of the Necklace,HORROR,4.5,1100.0,99
+Ick,HORROR,5.6,208.0,87
+Something in the Water,HORROR,4.1,4900.0,86
+Do Not Enter,HORROR,5.3,637.0,85
+Cinderella's Revenge,HORROR,3.8,1200.0,85
+A Fisherman's Tale,HORROR,6.1,136.0,103
+Year 10,HORROR,5.4,2000.0,96
+Cinderella's Curse,HORROR,3.3,1300.0,82
+Are You There?,HORROR,6.4,64.0,88
+Out Come the Wolves,HORROR,4.7,1600.0,86
+Swap,HORROR,2.9,352.0,86
+Goldilocks and the Three Bears: Death and Porridge,HORROR,2.1,1900.0,82
+Grave Torture,HORROR,6.2,3000.0,117
+Love Me Dead,HORROR,6.7,42.0,87
+Latency,HORROR,4.2,2800.0,94
+Street Trash,HORROR,4.5,919.0,85
+Death's Sonata,HORROR,7.9,345.0,103
+Seven Cemeteries,HORROR,4.6,644.0,84
+Angels Fallen: Warriors of Peace,HORROR,4.9,5800.0,103
+Death Whisperer 2,HORROR,6.3,1500.0,110
+Krazy House,HORROR,4.8,1500.0,89
+Wind and Bone,HORROR,6.1,14.0,93
+Soul Reaper,HORROR,5.8,302.0,112
+#MissingCouple,HORROR,5.3,690.0,93
+Turno Nocturno,HORROR,5.3,644.0,107
+We Are Wolves,HORROR,3.4,266.0,97
+Murder Mubarak,HORROR,5.8,51000.0,140
+Succubus,HORROR,3.5,863.0,96
+Bogieville,HORROR,5.5,327.0,108
+Orang Ikan,HORROR,6.2,78.0,83
+The Jack in the Box Rises,HORROR,4.1,806.0,92
+1978,HORROR,5.4,248.0,76
+The Devil's Disciples,HORROR,8.7,41.0,82
+Desert Road,HORROR,6.8,165.0,90
+Crackcoon,HORROR,3.6,433.0,88
+Invader,HORROR,5.7,69.0,70
+12 to Midnight,HORROR,3.6,290.0,96
+Within the Pines,HORROR,6.7,17.0,73
+Cellphone,HORROR,3.0,740.0,88
+Camp Pleasant Lake,HORROR,3.3,2400.0,90
+Jimmy and Stiggs,HORROR,6.0,75.0,80
+Strange Harvest,HORROR,6.7,69.0,94
+Butchers Book Two: Raghorn,HORROR,4.1,637.0,88
+The Stalking,HORROR,3.6,48.0,72
+The Little Mermaid,HORROR,3.5,203.0,89
+Seeds,HORROR,4.9,200.0,82
+The Demon Disorder,HORROR,4.8,1300.0,86
+Else,HORROR,6.0,250.0,102
+Uninvited,HORROR,5.3,114.0,93
+Model House,HORROR,4.0,1100.0,85
+Another Cabin in the Woods Movie,HORROR,4.8,217.0,77
+Sorop,HORROR,5.4,209.0,103
+Believer,HORROR,4.6,419.0,108
+Cora,HORROR,4.6,930.0,104
+Dirty Boy,HORROR,8.1,24.0,98
+The Family Business,HORROR,8.7,29.0,89
+Peripheral,HORROR,8.9,26.0,88
+Operation Blood Hunt,HORROR,3.4,503.0,93
+DarkGame,HORROR,4.6,2900.0,100
+Festival of the Living Dead,HORROR,4.3,664.0,88
+House of Ashes,HORROR,6.9,35.0,95
+Noise,HORROR,6.0,61.0,95
+Butchers Book Three: Bonesaw,HORROR,5.1,106.0,107
+The Vampire Next Door,HORROR,4.6,780.0,110
+X Files,HORROR,2.3,67.0,74
+Devils Stay,HORROR,4.9,310.0,95
+You Can't Run Forever,HORROR,4.5,4400.0,102
+Amityville: Where the Echo Lives,HORROR,1.5,410.0,89
+Ghost Game,HORROR,3.4,332.0,86
+Mom,HORROR,5.2,200.0,95
+.ask,HORROR,6.9,68.0,89
+A Hell of a Difference,HORROR,5.1,35.0,80
+Mutants of Nature Cove,HORROR,3.5,157.0,88
+Hauntology,HORROR,3.7,362.0,103
+Deadly Retreat,HORROR,5.2,95.0,46
+Nyctophobia,HORROR,7.0,1800.0,90
+Consumed,HORROR,3.7,622.0,89
+Pacific Fear,HORROR,3.4,229.0,85
+Somnium,HORROR,8.5,47.0,92
+Down Below,HORROR,2.6,193.0,93
+Heresy,HORROR,6.9,309.0,61
+Strange Frequencies: Taiwan Killer Hospital,HORROR,6.5,61.0,91
+Creep Encounters,HORROR,4.3,120.0,72
+Stream,HORROR,4.1,29.0,85
+Animale,HORROR,5.9,321.0,98
+Pigman,HORROR,3.2,105.0,98
+Riders,HORROR,6.4,503.0,105
+The Ceremony Is About to Begin,HORROR,4.5,737.0,70
+Thaghut,HORROR,5.8,318.0,102
+The Forbidden Camp: Mass Possession,HORROR,6.1,342.0,112
+Black,HORROR,7.1,2800.0,115
+Hunting Matthew Nichols,HORROR,8.8,46.0,96
+The Lost Daughter,HORROR,5.9,303.0,99
+The Legend of Lake Hollow,HORROR,3.8,531.0,88
+Heretics,HORROR,5.7,40.0,83
+The Hangman,HORROR,3.3,1000.0,92
+Went Up the Hill,HORROR,6.7,81.0,100
+Lumina,HORROR,2.2,687.0,113
+Slay,HORROR,6.5,1200.0,99
+Poison Sangga: The Homewrecker's Curse,HORROR,6.8,344.0,118
+Monster on a Plane,HORROR,5.1,2300.0,88
+A Herança,HORROR,5.3,216.0,80
+Haunt Season,HORROR,4.9,806.0,81
+Haunted Universities 3,HORROR,5.4,320.0,119
+Killer Body Count,HORROR,4.7,667.0,109
+Cocaine Werewolf,HORROR,2.4,306.0,80
+Kang Mak,HORROR,6.4,860.0,122
+Solvent,HORROR,7.3,428.0,94
+In Search of Darkness 1990-1994: A Journey Into Iconic '90s Horror,HORROR,7.9,141.0,363
+Mononoke the Movie: The Phantom in the Rain,HORROR,6.8,1300.0,89
+Alyad Palyad,HORROR,6.8,1200.0,129
+Curse of the Seven Oceans,HORROR,5.6,486.0,94
+Bystanders,HORROR,3.9,339.0,82
+A Stranger in the Woods,HORROR,5.0,703.0,83
+What Lurks Beneath,HORROR,4.3,793.0,102
+La Patasola,HORROR,2.5,65.0,92
+Curse of the Naked Ghost Hunters,HORROR,5.1,14.0,35
+Territory,HORROR,4.7,88.0,93
+Freelance,HORROR,4.8,366.0,110
+HMM Hug Me More,HORROR,6.2,1100.0,102
+The Train of Death,HORROR,4.7,710.0,103
+In Our Blood,HORROR,6.9,47.0,89
+Mother Goose's ScaryTales,HORROR,6.3,7.0,54
+Siccin 7,HORROR,4.0,980.0,94
+Dancing Village: The Curse Begins,HORROR,5.7,4200.0,122
+What Happened to Suzy,HORROR,6.4,82.0,94
+Unspeakable: Beyond the Wall of Sleep,HORROR,6.1,58.0,90
+Test Screening,HORROR,6.9,67.0,92
+Scared to Death,HORROR,6.4,33.0,98
+The Waves of Madness,HORROR,5.9,92.0,68
+Cadi,HORROR,6.4,4400.0,134
+Jhamkudi,HORROR,6.6,983.0,151
+Wanita Ahli Neraka,HORROR,5.1,280.0,95
+Horror in the High Desert 3: Firewatch,HORROR,5.4,754.0,88
+Buzz House: The Movie,HORROR,3.2,1300.0,93
+Kakuda,HORROR,5.4,6400.0,116
+Hide and Seek,HORROR,4.9,149.0,84
+Dominion of Darkness,HORROR,5.7,839.0,96
+Scarytales and Deadtime Stories,HORROR,4.9,10.0,67
+Where is My Head?,HORROR,6.8,82.0,90
+Delicate Arch,HORROR,5.6,44.0,85
+H. P. Lovecraft's the Old Ones,HORROR,3.6,399.0,84
+Curse of the Sin Eater,HORROR,4.9,784.0,90
+Devon,HORROR,2.6,301.0,72
+Monster Mash,HORROR,3.5,439.0,85
+Biaz: Kara Iyenin Laneti,HORROR,5.3,384.0,89
+Aranmanai 4,HORROR,5.0,2400.0,148
+Gacy: Serial Killer Next Door,HORROR,3.3,485.0,97
+Remnant,HORROR,2.6,326.0,112
+Alien Country,HORROR,4.4,373.0,96
+Suckers,HORROR,3.2,126.0,67
+Nokturno,HORROR,3.7,227.0,99
+Shaman,HORROR,5.5,45.0,100
+Last Night at Terrace Lanes,HORROR,4.4,642.0,75
+Drained,HORROR,4.5,321.0,107
+The Hostage,HORROR,5.4,12.0,87
+The Windigo,HORROR,4.7,713.0,85
+Salve Maria,HORROR,6.4,500.0,111
+The Monster Beneath Us,HORROR,5.6,434.0,103
+Witch,HORROR,4.9,1400.0,107
+The Ritual,HORROR,3.3,15.0,100
+Life of Belle,HORROR,5.0,665.0,73
+Sattam En Kaiyil,HORROR,7.9,2300.0,124
+Üç Harfliler: Nazar,HORROR,4.8,166.0,94
+Geethanjali Malli Vachindi,HORROR,4.9,2200.0,144
+Replicator,HORROR,3.8,146.0,75
+404 Run Run,HORROR,5.7,445.0,104
+Darling,HORROR,5.3,753.0,159
+Scared Shitless,HORROR,6.1,225.0,76
+Mother Father Sister Brother Frank,HORROR,5.8,276.0,85
+Horny Teenagers Must Die!,HORROR,3.2,242.0,84
+Tenants,HORROR,4.3,120.0,94
+Unnatural,HORROR,3.7,139.0,103
+Clickbait: Unfollowed,HORROR,4.9,582.0,90
+Snakeeater,HORROR,5.3,268.0,80
+Vampire Zombies... From Space!,HORROR,7.4,103.0,98
+Sayuri,HORROR,6.3,319.0,108
+I Heart Willie,HORROR,6.0,109.0,88
+Guna guna istri muda,HORROR,5.1,196.0,98
+My Boo,HORROR,6.1,711.0,125
+Stupid Games,HORROR,4.2,397.0,86
+(Pri)sons,HORROR,5.0,287.0,100
+Operation Undead,HORROR,4.7,428.0,110
+Kromoleo,HORROR,3.9,257.0,80
+The Prodigy,HORROR,4.8,35.0,83
+Death Streamer,HORROR,3.1,229.0,72
+Rita,HORROR,5.7,288.0,107
+Kalinga,HORROR,5.9,7600.0,116
+Members Club,HORROR,4.6,172.0,90
+Sakaratul Maut,HORROR,5.4,180.0,107
+The Redemption of Sin,HORROR,5.8,218.0,116
+Blood Debt,HORROR,5.5,173.0,100
+The Backrooms,HORROR,8.1,14.0,63
+Cara,HORROR,6.9,47.0,96
+Vina: Before 7 Days,HORROR,5.4,603.0,100
+Tsunami Sharks,HORROR,2.7,89.0,70
+A Gong,HORROR,7.3,9.0,107
+The Ghost,HORROR,6.3,126.0,92
+Pusaka,HORROR,5.2,181.0,90
+Deadbolt,HORROR,4.6,330.0,83
+The Girl Who Wore Yellow Lace,HORROR,5.2,27.0,82
+American Werewolf,HORROR,2.9,118.0,67
+Nyctophobia,HORROR,2.6,168.0,77
+Don't Open the Door,HORROR,6.6,8400.0,87
+Temurun,HORROR,4.6,348.0,86
+Silent Bite,HORROR,3.7,511.0,90
+Family,HORROR,6.8,33.0,95
+Ba,HORROR,7.7,53.0,79
+Pechi,HORROR,5.5,1500.0,110
+Five Friends,HORROR,6.7,940.0,112
+Shark Girl,HORROR,2.6,174.0,82
+Sea of Madness,HORROR,6.9,27.0,93
+Malice,HORROR,2.8,35.0,94
+Haze,HORROR,6.6,50.0,76
+Possessions,HORROR,3.8,860.0,89
+Witch Hunter,HORROR,5.0,25.0,80
+I'll Play Mother,HORROR,5.1,93.0,108
+Tantra,HORROR,5.0,2400.0,136
+You Shall Not Sleep Tonight,HORROR,4.1,372.0,77
+Bad Fish,HORROR,3.4,325.0,84
+Possession: Kerasukan,HORROR,3.6,297.0,94
+Last Stop: Rocafort St.,HORROR,4.1,483.0,89
+Father's Haunted House,HORROR,5.9,340.0,93
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,HORROR,6.6,9.0,55
+Mandira,HORROR,5.9,999.0,121
+Do You See What I See,HORROR,5.4,681.0,109
+Mona: Jinn-2,HORROR,4.2,124.0,124
+Bloody Ishq,HORROR,2.9,2200.0,138
+Skeletons in the Closet,HORROR,3.0,573.0,92
+Wake,HORROR,3.4,267.0,85
+Dagr,HORROR,4.4,2800.0,77
+Crust,HORROR,6.0,243.0,102
+Spiders on a Plane,HORROR,4.9,379.0,78
+Liu mang qu mo shi,HORROR,5.7,50.0,104
+Tenement,HORROR,4.6,124.0,88
+Aiden,HORROR,2.5,128.0,74
+Director's Cut,HORROR,7.5,100.0,90
+Betting with Ghost,HORROR,6.6,85.0,112
+The Buildout,HORROR,4.1,91.0,70
+Chainsaws Were Singing,HORROR,7.2,382.0,117
+Bleeding,HORROR,6.5,25.0,98
+Deadly Culture: Final Mutation,HORROR,2.8,55.0,69
+Good Neighbours,HORROR,3.1,183.0,84
+Shark Island,HORROR,3.2,117.0,81
+Spring Garden,HORROR,4.4,195.0,90
+Easter Bloody Easter,HORROR,3.3,311.0,103
+Trinil,HORROR,4.5,370.0,105
+The Boys,HORROR,4.7,143.0,131
+Book of the Dead,HORROR,5.4,76.0,90
+Killer Influence,HORROR,2.6,322.0,84
+Invited,HORROR,5.2,225.0,71
+Sengkolo: Malam satu suro,HORROR,6.0,58.0,100
+Spithood,HORROR,5.5,1100.0,58
+Wineville,HORROR,4.2,227.0,100
+From Darkness,HORROR,4.9,570.0,95
+A Savior Red,HORROR,5.2,253.0,87
+A Halloween Feast,HORROR,5.1,793.0,103
+Love Me If You Dare,HORROR,4.3,479.0,128
+Z Zone,HORROR,4.0,50.0,83
+The Bitter Taste,HORROR,7.5,21.0,125
+Clown II,HORROR,7.5,13.0,141
+Monster Awakens,HORROR,5.1,584.0,74
+Ship of the Damned,HORROR,2.8,304.0,88
+Dead Teenagers,HORROR,3.1,139.0,80
+Perewangan,HORROR,5.5,171.0,109
+Guess Who,HORROR,4.8,370.0,93
+Thine Ears Shall Bleed,HORROR,6.3,1100.0,102
+Scopophobia,HORROR,5.6,64.0,100
+The Cursed Land,HORROR,5.5,299.0,128
+Staycation,HORROR,7.0,109.0,94
+History of Evil,HORROR,3.4,828.0,98
+Gone with the Dead,HORROR,4.4,48.0,96
+Jugaremos en el bosque,HORROR,4.8,98.0,90
+Jurnal Risa by Risa Saraswati,HORROR,4.4,301.0,92
+Valari,HORROR,8.0,2600.0,135
+Ghost Train,HORROR,3.8,5.0,95
+Till Death Do Us Part,HORROR,6.3,280.0,108
+Hellhounds,HORROR,3.4,178.0,81
+The Blackwell Ghost 8,HORROR,6.1,402.0,69
+The Seductress from Hell,HORROR,6.7,18.0,102
+They Turned Us Into Killers,HORROR,2.7,259.0,86
+Salem Witch Doll,HORROR,2.4,136.0,76
+9 Windows,HORROR,3.7,320.0,82
+Hu Die Da Shia,HORROR,4.7,43.0,102
+Devil,HORROR,4.5,1600.0,118
+Anatema,HORROR,4.2,217.0,91
+The Sin,HORROR,5.3,349.0,103
+Do Not Open,HORROR,2.6,266.0,91
+You Shouldn't Have Let Me In,HORROR,4.1,181.0,84
+Campton Manor,HORROR,3.4,232.0,83
+OMG: O Manchi Ghost,HORROR,5.0,590.0,125
+STEVE (A Minecraft Movie),HORROR,6.9,12.0,61
+Cursed,HORROR,4.2,142.0,81
+A Mother's Embrace,HORROR,5.8,604.0,90
+Silence of the Prey,HORROR,3.8,297.0,97
+The Killers,HORROR,6.1,77.0,119
+Graveyard Shark,HORROR,3.4,229.0,97
+Migraine,HORROR,8.6,24.0,65
+Séance Games: Metaxu,HORROR,3.3,200.0,86
+The Gesuidouz,HORROR,6.6,81.0,93
+Manipula,HORROR,8.4,29.0,94
+Bag of Lies,HORROR,3.8,582.0,96
+Pater Noster and the Mission of Light,HORROR,7.3,139.0,0
+Whisper of the Witch,HORROR,3.9,337.0,95
+The Last Nightmare Part One,HORROR,5.8,78.0,50
+Daft State,HORROR,6.4,48.0,0
+The Banished,HORROR,5.6,21.0,97
+Broken Bird,HORROR,5.8,126.0,99
+Project Dorothy,HORROR,3.9,3200.0,80
+"Spider Baby, or The Maddest Story Ever Told",HORROR,4.7,102.0,72
+Nearing Death,HORROR,5.6,352.0,96
+Dosen Ghaib: It's Nighttime or You Already Know,HORROR,4.2,302.0,94
+The Hunted,HORROR,5.1,374.0,94
+Mummy Shark,HORROR,2.0,180.0,66
+Killington,HORROR,2.8,187.0,87
+Run!,HORROR,3.5,102.0,86
+All Hallows' Eve: Inferno,HORROR,4.3,132.0,74
+Sam and Colby: The Legends of the Paranormal,HORROR,4.8,313.0,98
+Winter Island,HORROR,4.6,178.0,102
+Its Name Was Mormo,HORROR,3.6,123.0,93
+Paku Tanah Jawa,HORROR,4.2,118.0,100
+True Fear,HORROR,4.5,295.0,92
+"Nanay, tatay",HORROR,7.1,55.0,120
+Pasahero,HORROR,6.1,27.0,120
+Vertical,HORROR,5.2,144.0,111
+Jurassic Triangle,HORROR,2.4,286.0,84
+Oculus,HORROR,6.0,15.0,113
+Name the Demon,HORROR,3.5,167.0,77
+Séance,HORROR,7.1,18.0,85
+Carnage for Christmas,HORROR,4.5,347.0,69
+The American Backyard,HORROR,6.2,165.0,107
+A Wedding Story,HORROR,5.0,2200.0,110
+The North Witch,HORROR,5.2,17.0,80
+There's a Zombie Outside,HORROR,6.7,43.0,75
+Amp House Massacre,HORROR,3.8,190.0,80
+Don't Make a Sound,HORROR,4.0,39.0,80
+Kuyang,HORROR,5.2,485.0,97
+Lost Angels,HORROR,6.8,28.0,96
+The Carters,HORROR,5.4,27.0,75
+4:44 : Time of Fear,HORROR,5.3,21.0,44
+Dinner with Leatherface,HORROR,7.4,34.0,106
+Wild Animal,HORROR,8.2,13.0,19
+Granny,HORROR,8.0,7.0,40
+The Epidemic,HORROR,5.9,71.0,95
+Effigy,HORROR,2.8,263.0,78
+Cold Blows the Wind,HORROR,5.7,799.0,85
+The Vord,HORROR,3.5,68.0,101
+Shark Exorcist 2: Unholy Waters,HORROR,3.3,148.0,74
+Huntress,HORROR,3.0,85.0,77
+Las Tias,HORROR,4.8,261.0,87
+Chateau,HORROR,4.0,289.0,83
+"Hemet, or the Landlady Don't Drink Tea",HORROR,4.4,89.0,89
+Guardian,HORROR,4.0,668.0,120
+Ghost Island,HORROR,7.4,50.0,95
+The Omicron Killer,HORROR,2.9,596.0,98
+Dead Whisper,HORROR,3.8,558.0,88
+Kifn,HORROR,7.3,693.0,100
+Quadrant,HORROR,4.3,147.0,73
+Followers,HORROR,3.6,255.0,74
+Bloody Bridget,HORROR,7.0,54.0,81
+The Girl in the Trunk,HORROR,3.4,348.0,90
+Bhairadevi,HORROR,8.7,51.0,134
+Water Horse,HORROR,5.9,240.0,85
+Obayifo Project,HORROR,5.4,359.0,71
+I Heard You Buy Souls,HORROR,3.1,49.0,88
+Bangsal Isolasi,HORROR,4.7,170.0,76
+This Never Happened,HORROR,4.7,383.0,90
+Cursed in Baja,HORROR,6.4,28.0,80
+The Naughty List of Mr. Scrooge,HORROR,4.5,208.0,90
+Chain Reactions,HORROR,7.1,105.0,103
+Tahoe Joe 2: The Sierra Nevada Bigfoot Conspiracy,HORROR,4.3,249.0,74
+Visher,HORROR,4.2,383.0,65
+Slashercise,HORROR,5.4,13.0,58
+Camp Blood: Clown Shark,HORROR,3.2,89.0,70
+The Bad Nun 3,HORROR,3.1,275.0,72
+Janji Darah,HORROR,4.4,158.0,104
+Ghost Killer,HORROR,7.0,80.0,105
+Bhavanam: The Haunted House,HORROR,7.1,16.0,139
+Alpacalypse,HORROR,6.0,32.0,77
+Lampir,HORROR,5.5,194.0,97
+The Woods Are Real,HORROR,2.4,463.0,80
+Purgatory Station,HORROR,3.3,58.0,109
+Stereoscope,HORROR,4.1,118.0,91
+Camp Terror,HORROR,4.5,39.0,110
+The Candy Store,HORROR,4.0,86.0,86
+Space Sharks,HORROR,1.5,324.0,70
+Spirit Riser,HORROR,6.6,35.0,98
+Kutukan Calon Arang,HORROR,6.3,8.0,101
+Retratos del Apocalipsis,HORROR,8.1,16.0,75
+Ronggeng Kematian,HORROR,5.4,154.0,98
+Bull Shark 3,HORROR,3.5,90.0,76
+The Mermaid,HORROR,9.2,7.0,105
+Ladybug,HORROR,5.5,34.0,107
+The Alien Report,HORROR,4.6,153.0,81
+Spirit Whisker: The Revenant,HORROR,5.5,51.0,109
+Trizombie,HORROR,7.3,62.0,82
+Z-Mom,HORROR,5.0,46.0,90
+Passages of Nexus,HORROR,5.3,305.0,108
+Tu Sangre,HORROR,4.4,96.0,81
+Air Fryer Slaughter,HORROR,6.3,551.0,90
+The House on Laura Anne Dr.,HORROR,4.4,656.0,75
+Una ballena,HORROR,6.1,101.0,108
+Salsa,HORROR,5.7,277.0,100
+No Voltees,HORROR,5.5,215.0,94
+Mother Maker Lover Taker,HORROR,5.6,38.0,99
+Lizzie Lazarus,HORROR,4.2,107.0,91
+Exorcism Chronicles: The Beginning,HORROR,6.4,121.0,85
+For Sale,HORROR,4.9,675.0,115
+200KG Vampire,HORROR,5.0,32.0,93
+Bury Your Dead,HORROR,5.4,81.0,128
+THEDÆMON,HORROR,6.9,42.0,87
+Tide,HORROR,4.0,121.0,82
+Missing Child Videotape,HORROR,6.6,59.0,104
+Take Good Care,HORROR,6.4,5.0,101
+Akkada Varu Ikkada Unnaru,HORROR,9.1,1000.0,103
+The McKinney Family Home Videos,HORROR,5.1,34.0,68
+Final Girl: Halloween,HORROR,4.6,109.0,85
+Paranoia,HORROR,4.1,382.0,95
+He Sees You When You're Sleeping,HORROR,4.2,150.0,83
+The Clock,HORROR,3.4,40.0,80
+C202,HORROR,7.4,2200.0,135
+Protein,HORROR,6.4,66.0,100
+Demo_n,HORROR,5.2,36.0,70
+Massacre at Femur Creek,HORROR,6.7,555.0,82
+Night Silence,HORROR,5.6,278.0,112
+American Terror Tales 3,HORROR,2.6,50.0,58
+The Sisters,HORROR,4.7,154.0,122
+Hunters on a White Field,HORROR,4.9,462.0,100
+Deadly Culture: Species X,HORROR,2.9,60.0,71
+Holnap meghalok,HORROR,4.3,107.0,85
+Marni: The Story of Wewe Gombel,HORROR,5.8,227.0,119
+The A-Frame,HORROR,7.0,39.0,82
+Ice Nine Kills Presents: Welcome to Horrorwood,HORROR,8.5,30.0,76
+Black Spines,HORROR,6.9,24.0,100
+Death Ph.D,HORROR,2.5,133.0,107
+Pagpag 24/7,HORROR,4.2,61.0,130
+Noclip,HORROR,3.9,36.0,61
+Mananambal,HORROR,5.9,21.0,100
+Mountain Shark,HORROR,5.0,106.0,81
+Anoko wa Daare?,HORROR,5.5,71.0,125
+Ma Da: The Drowning Spirit,HORROR,4.5,206.0,90
+Night Shoot,HORROR,5.7,84.0,98
+Guys at Parties Like It,HORROR,3.9,170.0,79
+Agapouse ta louloudia perissotero,HORROR,5.3,184.0,86
+The Spirit Hunter,HORROR,4.3,25.0,102
+Traumatika,HORROR,5.8,60.0,87
+Flesh of the Unforgiven,HORROR,8.9,44.0,88
+The Despaired,HORROR,6.8,35.0,130
+Huggin Molly,HORROR,6.1,83.0,54
+Thookudurai,HORROR,4.2,2300.0,125
+The Exorcism of Saint Patrick,HORROR,3.6,169.0,90
+The Apocalypse Box,HORROR,3.3,244.0,86
+Echoes of Crystal Lake: A Friday the 13th Story,HORROR,8.4,16.0,3
+Night Talkers,HORROR,4.1,100.0,89
+The Evil Three,HORROR,6.5,1000.0,30
+The Book of the Witch,HORROR,4.5,125.0,73
+The Captives,HORROR,3.5,68.0,73
+Etheria Film Night 2024,HORROR,7.6,11.0,112
+The Girl Who Cried Her Eyes Out,HORROR,3.9,736.0,94
+Jinn Chapter 1,HORROR,7.8,65.0,46
+Mystic Singer,HORROR,4.9,246.0,96
+Toxic Daughter,HORROR,5.3,47.0,105
+The Cellar,HORROR,5.9,169.0,85
+Scream 2,HORROR,5.4,7.0,31
+Videotheque,HORROR,6.3,103.0,112
+The Shadow,HORROR,6.4,274.0,90
+Shadows Side,HORROR,2.0,133.0,90
+Feet of Death,HORROR,3.9,232.0,106
+Virgo,HORROR,7.0,50.0,87
+Jason in Indianapolis: A Friday the 13th Tribute,HORROR,7.2,21.0,120
+Bigfoot Exorcist,HORROR,2.7,224.0,70
+Welcome Week: A College Horror Anthology,HORROR,3.9,120.0,98
+Blood and Breakfast,HORROR,5.5,29.0,84
+Mister Sleep,HORROR,3.4,178.0,94
+Hunter of the Night,HORROR,5.4,58.0,90
+Red Night at Skye's,HORROR,7.0,10.0,82
+"Silent Night, Bloody Night 3: Descent",HORROR,3.3,199.0,100
+Blood and Black,HORROR,7.3,1100.0,88
+In the Name of God,HORROR,5.1,166.0,89
+Amityville Bigfoot,HORROR,3.0,145.0,88
+Bed of Nails,HORROR,5.0,27.0,104
+Catch a Killer,HORROR,5.8,13.0,82
+Killer Campout Part II,HORROR,5.5,27.0,93
+Coven of the Black Cube,HORROR,7.4,21.0,97
+The Box,HORROR,3.5,75.0,79
+Byte,HORROR,3.4,156.0,97
+Dr. Sander's Sleep Cure,HORROR,7.2,960.0,98
+Cholo Zombies,HORROR,4.6,104.0,96
+Unknown Caller,HORROR,7.0,29.0,63
+Burning Butterflies,HORROR,7.1,91.0,103
+Devil's Horns,HORROR,4.6,124.0,81
+Oru Kadha Sollattaa Sir,HORROR,6.1,41.0,130
+Old Wounds,HORROR,8.0,14.0,109
+Don Dukun,HORROR,7.1,57.0,98
+Devil Hunters,HORROR,8.7,129.0,120
+Lord of Wolves,HORROR,2.8,143.0,87
+Fright,HORROR,6.6,63.0,81
+The Camp Host,HORROR,4.3,292.0,95
+Disremembered,HORROR,4.8,136.0,104
+Dead Body,HORROR,3.8,39.0,135
+Anak Perjanjian Syaitan 2,HORROR,6.4,34.0,89
+Agrinai,HORROR,8.0,66.0,93
+How to Make a Werewolf,HORROR,5.8,142.0,0
+Listen Carefully,HORROR,3.3,147.0,81
+The Caller,HORROR,6.8,12.0,80
+Sapien,HORROR,2.4,79.0,104
+The Last Chainsaw Massacre,HORROR,3.7,43.0,75
+Don't Look Back... I Know Your Origins,HORROR,4.4,86.0,104
+The Vampire and the Vigilante,HORROR,3.6,54.0,75
+Xoftex,HORROR,6.1,55.0,99
+Pee Nak 4,HORROR,4.8,409.0,115
+Zir-i Cin 3: Cin Dügümü,HORROR,3.5,21.0,86
+Jeonde Raho Bhoot Ji,HORROR,5.3,139.0,112
+The Night Curse of Reatrei,HORROR,4.5,115.0,95
+Misteri Bilik Korek Api,HORROR,6.3,8.0,73
+Inherit the Witch,HORROR,3.3,54.0,85
+The Bench,HORROR,3.8,187.0,75
+In the Belly of a Tiger,HORROR,7.4,103.0,91
+Dark Chronicles,HORROR,5.4,6.0,75
+The Gatekeeper,HORROR,5.2,18.0,97
+The Night of the Harvest,HORROR,4.5,497.0,126
+Oh My Ghost: The Finale,HORROR,7.3,35.0,112
+Vexanthrone,HORROR,5.6,22.0,65
+Ga la,HORROR,4.0,22.0,97
+The Mitchin Murders,HORROR,5.3,84.0,78
+Blood Mountain Massacre,HORROR,5.1,42.0,89
+The House on Mansfield Street II: Evil Next Door,HORROR,5.1,89.0,80
+Pasar Setan,HORROR,6.8,61.0,96
+Bring on the Damned!,HORROR,7.6,6.0,114
+Nûfer,HORROR,3.5,11.0,98
+Koston enkeli,HORROR,4.0,30.0,96
+La Chancla Del Diablo,HORROR,4.7,12.0,90
+Isleen Pines,HORROR,5.8,731.0,84
+Jimmy,HORROR,4.1,208.0,85
+Death After Dusk,HORROR,5.6,91.0,140
+Re:Human,HORROR,5.7,39.0,108
+Deviant,HORROR,5.2,45.0,80
+Inverted,HORROR,4.2,53.0,88
+The Cursed,HORROR,4.1,119.0,97
+Swoon,HORROR,5.6,18.0,83
+Park,HORROR,7.0,379.0,117
+Behave,HORROR,3.2,179.0,88
+Colour Palette,HORROR,9.4,49.0,87
+A yard of jackals,HORROR,7.2,40.0,108
+The Hunter's Anthology: The Demon Hunter,HORROR,4.9,98.0,126
+"The Haunted, the Possessed and the Damned",HORROR,2.8,60.0,111
+Blackest Darkness,HORROR,5.5,75.0,76
+Sun,HORROR,8.4,30.0,75
+Island of the Dolls 2,HORROR,3.0,157.0,83
+There Is a Monster,HORROR,3.8,171.0,82
+I Saw Black Clouds,HORROR,4.0,28.0,79
+This Man,HORROR,4.8,22.0,89
+P2,HORROR,3.8,8.0,105
+Rambut Kafan,HORROR,4.6,95.0,98
+Clownface 3,HORROR,7.3,43.0,104
+San Geng Ke Zhan,HORROR,6.2,11.0,88
+Himalaya,HORROR,3.2,399.0,85
+Pesadilla,HORROR,6.5,47.0,112
+Porcelain,HORROR,3.8,109.0,88
+The Unrighteous,HORROR,4.8,31.0,87
+In Tenebras: Into the Darkness,HORROR,3.1,177.0,90
+Art of a Hit,HORROR,4.2,219.0,93
+Crispy,HORROR,3.5,84.0,76
+Possession Street,HORROR,6.6,31.0,96
+Wolves Against the World,HORROR,3.6,61.0,88
+Slaughterhouse on the Hill,HORROR,2.6,131.0,72
+Jeffrey's Hell,HORROR,4.8,94.0,80
+Head Like a Hole,HORROR,7.7,12.0,93
+Tragic Waste,HORROR,7.9,96.0,77
+Dabba,HORROR,5.2,21.0,75
+Hantu Polong,HORROR,2.8,12.0,90
+Witches' Well,HORROR,2.6,76.0,60
+Aranam,HORROR,7.5,403.0,127
+Waruga: Kutukan Ilmu Hitam,HORROR,6.8,29.0,85
+Morena,HORROR,5.5,119.0,106
+Bloodspawn,HORROR,6.3,11.0,76
+The Lonely Man with the Ghost Machine,HORROR,3.0,160.0,90
+Bernadette will töten,HORROR,8.8,21.0,93
+The Summer We Died,HORROR,5.0,430.0,73
+Dinosaur Hotel 3,HORROR,2.7,162.0,74
+The Convent,HORROR,4.0,20.0,80
+People in the Walls,HORROR,3.3,33.0,93
+Amityville Backrooms,HORROR,4.5,30.0,72
+Roxana,HORROR,3.9,67.0,98
+Talahib,HORROR,5.5,20.0,83
+The Geechee Witch: A Boo Hag Story,HORROR,7.2,15.0,88
+The E-Ghost,HORROR,7.3,13.0,110
+Bantay-bahay,HORROR,5.1,15.0,86
+The Deadly Swarm,HORROR,2.5,192.0,81
+Malam Keramat,HORROR,6.3,31.0,90
+Pulp Modern: Die Laughing,HORROR,8.2,95.0,83
+Anxiety,HORROR,7.8,8.0,97
+Big Bad CGI Monsters,HORROR,3.9,34.0,60
+Campfire Dead by Dawn,HORROR,3.0,65.0,87
+Custom,HORROR,6.7,44.0,76
+Dead Boys Club,HORROR,6.3,26.0,105
+La damnée,HORROR,4.3,110.0,80
+Bhootpori,HORROR,5.7,214.0,110
+Akh,HORROR,5.3,106.0,137
+Winemaker,HORROR,5.6,32.0,59
+105 Minutes,HORROR,4.1,2300.0,120
+Murderfest,HORROR,3.2,229.0,82
+The John Perkins Tapes,HORROR,4.2,13.0,77
+Neon Fear,HORROR,5.7,587.0,40
+Mulm,HORROR,5.9,62.0,98
+Continente,HORROR,5.3,79.0,115
+Teddiscare,HORROR,2.1,167.0,82
+Salt Along the Tongue,HORROR,8.0,9.0,113
+Sharkers,HORROR,4.1,168.0,88
+Watch If You Dare To,HORROR,3.8,9.0,65
+Sinakagon,HORROR,6.9,33.0,115
+Death Web,HORROR,5.3,80.0,64
+A Game in the Woods,HORROR,7.4,26.0,80
+The Town Without Halloween,HORROR,5.5,87.0,88
+Fierce Killer Marsupial,HORROR,2.3,48.0,86
+The Unsolved Love Hotel Murder Case Incident,HORROR,7.4,6.0,70
+Dwiju,HORROR,4.7,16.0,85
+The Dark Mother Special+20mn,HORROR,7.5,20.0,120
+Arctic Hollow,HORROR,2.3,183.0,70
+Zim Zim Ala Kazim,HORROR,3.5,111.0,100
+Chithini,HORROR,5.8,550.0,151
+Mueng non mueng tai,HORROR,2.2,13.0,99
+Death Bitch,HORROR,7.3,22.0,88
+Don't Break the Rules,HORROR,2.7,53.0,97
+Blood Dried Hands,HORROR,6.1,158.0,115
+Chuzalongo,HORROR,6.8,6.0,95
+Adze the African Vampire,HORROR,3.4,60.0,81
+A Most Atrocious Thing,HORROR,3.8,259.0,75
+Kuang Bao Ju Xi,HORROR,5.9,77.0,75
+Bedtime Stories: Tales of Love and Hate,HORROR,7.7,15.0,65
+Portraits,HORROR,4.9,44.0,82
+The Haunted Studio,HORROR,3.6,191.0,90
+Operation Laila,HORROR,5.5,56.0,123
+Do You See Me?,HORROR,4.0,5.0,88
+Once Upon a Time in Amityville,HORROR,3.6,51.0,73
+In the Room Where He Waits,HORROR,5.1,78.0,83
+Bad Ben 13: The Dracula Situation,HORROR,4.6,6.0,99
+Dosa Musyrik,HORROR,6.6,16.0,92
+Wishes of the Blue Girl,HORROR,4.3,376.0,73
+Influenza,HORROR,4.3,32.0,98
+Terror Zone,HORROR,3.3,9.0,88
+Apokrif,HORROR,8.7,22.0,64
+Amityville Turkey Day,HORROR,3.1,358.0,94
+My Zombabe,HORROR,4.8,92.0,105
+Advent,HORROR,4.4,30.0,77
+Rerouting,HORROR,4.2,165.0,86
+Secret Shadow,HORROR,7.4,18.0,82
+Cadet,HORROR,6.9,44.0,126
+Hüddam 4: Ahmer,HORROR,4.6,40.0,86
+10/31 Part 4,HORROR,5.6,17.0,87
+The Whisper in the Woods,HORROR,5.4,36.0,71
+Apex Predators 2: The Spawning,HORROR,2.9,25.0,70
+Idiot Girls and School Ghost: School Anniversary,HORROR,7.1,60.0,90
+Big Cats,HORROR,3.0,142.0,93
+A Melty Kiss Lost in the Abyss - Un Dolce Bacio Perduto nell'Abisso -,HORROR,10,6.0,91
+Padikkadha Pakkangal,HORROR,4.6,167.0,106
+Mr. Sandman,HORROR,6.7,28.0,47
+Cruel Summer III: Pray for Fall,HORROR,5.2,15.0,109
+Ame no naka no yokujô,HORROR,6.0,85.0,132
+Slave Dolls 2: Red Rooms,HORROR,2.0,6.0,17
+Danyang Mahar Tukar Nyawa,HORROR,6.5,8.0,110
+Burnt Flowers,HORROR,5.0,55.0,99
+Hell Squad 2: Fresh Meat,HORROR,9.3,21.0,95
+Blodsuger,HORROR,6.6,8.0,94
+Granny Krampus,HORROR,2.7,122.0,81
+Easter Evil,HORROR,2.5,150.0,72
+Undying,HORROR,6.7,14.0,26
+Ananya,HORROR,8.8,881.0,136
+Nowhere Land,HORROR,3.6,12.0,84
+Alone,HORROR,7.6,14.0,88
+Domovoy,HORROR,4.3,296.0,102
+In Search of Fear,HORROR,7.7,15.0,100
+My First Year Off Campus,HORROR,8.1,21.0,85
+Dr. Jason II - Lights & Shadows,HORROR,4.9,331.0,62
+Voidcaller,HORROR,6.7,41.0,85
+O Clube das Mulheres de Negócios,HORROR,4.7,107.0,95
+El tema del verano,HORROR,7.8,17.0,91
+Lipstick on the Glass,HORROR,4.1,13.0,116
+Video Vision,HORROR,5.8,20.0,78
+K. The Butcher Shitter,HORROR,3.1,23.0,70
+Blood Magick,HORROR,9.1,12.0,99
+Severance Mountain,HORROR,5.3,17.0,74
+Iron Nest of the Moon,HORROR,7.6,13.0,70
+Soul Traveler (The Feature),HORROR,4.2,23.0,96
+Ripper Revealed,HORROR,3.7,188.0,70
+Retreat,HORROR,8.7,16.0,93
+Curtains for Christmas,HORROR,5.4,67.0,70
+The Smell of Blood,HORROR,2.4,16.0,75
+Bridge,HORROR,3.0,12.0,78
+A Haunting in Council House,HORROR,5.0,56.0,94
+Clawface,HORROR,8.6,14.0,98
+The Tormented,HORROR,5.0,17.0,85
+Touched by Eternity,HORROR,5.4,87.0,95
+Wrong Places,HORROR,2.1,64.0,93
+Halloween: The Hunt of Michael Myers,HORROR,8.5,14.0,81
+Screamwalkers,HORROR,3.8,53.0,62
+Jurassic Exorcist,HORROR,3.9,23.0,76
+Wonderland,HORROR,6.8,13.0,120
+(Iconic),HORROR,5.6,12.0,90
+Alien Legacy: Terror on Luxor Ridge,HORROR,6.1,20.0,127
+Basileia,HORROR,4.3,58.0,96
+Shadows,HORROR,6.8,21.0,75
+All We Wanted,HORROR,3.5,72.0,103
+Firework,HORROR,6.1,13.0,60
+Death,HORROR,6.1,15.0,77
+Bloody Trip: The Equinox Killer,HORROR,4.9,82.0,80
+Trolled,HORROR,4.0,23.0,80
+Hide and Seek,HORROR,5.4,5.0,98
+Choke,HORROR,7.5,21.0,98
+Para Betina Pengikut Iblis: Part 2,HORROR,4.0,123.0,90
+Cin Köyü,HORROR,1.0,16.0,75
+Terrornet,HORROR,3.7,92.0,88
+Janus,HORROR,5.2,9.0,72
+The Seven Darks,HORROR,4.2,122.0,63
+Quadrant: Noir Version,HORROR,6.9,12.0,73
+Mystery Writers,HORROR,5.2,72.0,90
+Earworm,HORROR,2.3,215.0,101
+Petualangan Anak Penangkap Hantu,HORROR,5.9,27.0,99
+Nosferatu: A Symphony of Horror - Audio Score by idiedtrying.,HORROR,7.5,10.0,94
+The Burned Hand,HORROR,8.0,12.0,85
+Framed,HORROR,5.2,73.0,0
+Indera,HORROR,6.0,14.0,104
+Nenu Keerthana,HORROR,8.9,2100.0,155
+Haunted by Her Name,HORROR,2.7,93.0,90
+The Clot,HORROR,2.8,27.0,79
+Happy Halloween,HORROR,5.9,21.0,96
+The Damnation,HORROR,7.0,19.0,82
+Cruel: The Cross Village Encounter,HORROR,4.5,46.0,57
+The Beast Hand,HORROR,3.9,8.0,77
+Grayson's Encounter,HORROR,7.3,22.0,70
+The Elite of Devils,HORROR,3.6,42.0,108
+Brain Tumor,HORROR,3.8,51.0,76
+Hillock Haunting,HORROR,3.0,96.0,83
+Jama,HORROR,6.3,16.0,71
+Slenderverse: Building the Slenderman,HORROR,7.0,8.0,115
+Day of the Clones,HORROR,3.8,61.0,98
+Hellvira's Haunted Asylum of Horror,HORROR,5.6,35.0,118
+Hannas 2,HORROR,2.9,45.0,79
+Problematic Intentions,HORROR,4.6,15.0,90
+Behold the Claw,HORROR,5.6,17.0,75
+Abnormal: Buas,HORROR,5.6,26.0,90
+The Awkward Stage,HORROR,5.8,14.0,69
+Baridegi: The abandoned Girl,HORROR,3.4,18.0,107
+Saka Perawan,HORROR,5.1,55.0,91
+Historias de Halloween,HORROR,6.6,26.0,80
+The Director's Cut,HORROR,4.2,15.0,82
+Demon Stalker,HORROR,2.2,7.0,97
+La Hacienda - El Regreso de los Malditos,HORROR,7.6,15.0,70
+Bungalow Section 12,HORROR,2.4,60.0,88
+First Person Savior,HORROR,4.9,12.0,81
+The Last Ritual,HORROR,7.7,9.0,100
+Insane Like Me?,HORROR,4.4,55.0,86
+Kabir Azabi: Insi ve Cinni,HORROR,3.9,22.0,85
+Just Another Horror Movie,HORROR,5.5,9.0,31
+Busted Babies,HORROR,7.8,12.0,87
+A Coffin of Stars,HORROR,5.3,7.0,100
+FPS,HORROR,4.2,18.0,60
+II,HORROR,8.6,28.0,21
+My Cannibal Crush,HORROR,6.3,12.0,50
+"Rapunzel, El Perro y El Brujo",HORROR,7.6,22.0,109
+Halloween: Mal Eterno,HORROR,8.2,227.0,50
+Killer Reel,HORROR,5.2,8.0,73
+Trillberry Murders,HORROR,6.0,12.0,114
+Watch Them Come Blood,HORROR,8.0,7.0,82
+Siapa Buka Lampu?,HORROR,7.4,6.0,92
+The Hellper,HORROR,6.2,24.0,90
+SMB-plush presents trick or death,HORROR,8.0,17.0,120
+Dead Fun,HORROR,8.9,11.0,61
+Darkness Hunting,HORROR,5.0,8.0,72
+Prima del giorno dopo,HORROR,7.9,74.0,105
+Shi Ren Yu,HORROR,2.5,9.0,71
+Tan-Ti-Ana,HORROR,6.0,26.0,95
+Stalked by Shadows,HORROR,3.6,10.0,60
+A Maldição de Romanova,HORROR,4.4,17.0,80
+Horror Able,HORROR,6.5,24.0,78
+Demons vs. Ghosts,HORROR,8.0,5.0,92
+Un día cualquiera,HORROR,5.7,15.0,90
+MAKKA: Cinn-i Azap,HORROR,4.3,13.0,75
+Mosaic,HORROR,5.2,18.0,120
+Átropos,HORROR,5.7,23.0,93
+Night Games,HORROR,5.9,289.0,99
+Requiem: Three Tales of Horror,HORROR,3.6,36.0,55
+Cieco sordo muto,HORROR,7.4,8.0,85
+Sobe: Sakalli Bebek,HORROR,5.0,17.0,86
+Black Theta,HORROR,8.6,6.0,109
+The Frontrooms,HORROR,3.2,39.0,74
+Compression,HORROR,8.0,15.0,124
+Murdaritaville,HORROR,3.4,115.0,62
+Pinnil Oral,HORROR,6.0,113.0,127
+Kurban: Budak Iblis,HORROR,4.3,15.0,87
+Time of the Witch,HORROR,6.7,15.0,91
+Verified,HORROR,5.1,9.0,97
+The Haunting in Rosemary Lane,HORROR,3.5,29.0,59
+Monkey's Magic Merry Go Round,HORROR,7.4,9.0,91
+Bijt,HORROR,5.8,53.0,105
+Quiet,HORROR,4.0,7.0,71
+El Kafirun,HORROR,6.7,18.0,70
+Kabandha,HORROR,9.2,29.0,124
+New Folder,HORROR,4.6,25.0,72
+Town Mall 2,HORROR,6.9,16.0,86
+Mesken (Messuage),HORROR,7.2,42.0,102
+Bisikan Setan,HORROR,6.7,11.0,88
+La Hierba del Diablo,HORROR,3.8,50.0,80
+Abduction Chronicles,HORROR,8.6,37.0,126
+Mihrez 3: Cin Bebek,HORROR,2.8,17.0,78
+A Very Flattened Christmas,HORROR,6.1,36.0,95
+Daemon Mind,HORROR,4.9,33.0,101
+Tóxico,HORROR,5.9,13.0,88
+Laberinto de sombras,HORROR,6.7,8.0,110
+The Last Five Days: The Freak Building,HORROR,3.7,59.0,61
+Horror-Scopes: Volume Two,HORROR,8.5,18.0,88
+Maya,HORROR,7.0,8.0,109
+Elf in the Hood,HORROR,4.5,21.0,76
+New Tokyo Poltergeist,HORROR,5.2,7.0,88
+Kísértés az erdö mélyén,HORROR,2.7,75.0,78
+Lachrymose Primrose,HORROR,6.3,40.0,97
+Killer Hand Dryer,HORROR,7.8,10.0,118
+Kanbalhi,HORROR,9.0,6.0,115
+Dead Name,HORROR,9.0,11.0,84
+After Link,HORROR,7.5,20.0,14
+Obscura,HORROR,6.3,9.0,89
+Strangers,HORROR,7.4,8.0,99
+Amir,HORROR,5.7,19.0,70
+Live Different,HORROR,2.5,9.0,48
+O Procedimento,HORROR,8.3,50.0,12
+Der Dritte Gast,HORROR,3.3,41.0,73
+Stab 4: Knife of Doom,HORROR,5.4,14.0,98
+Fara suflet,HORROR,6.5,8.0,95
+The Monsters Under Our Bed,HORROR,5.8,12.0,127
+Dreams of flesh,HORROR,7.0,7.0,60
+Condemned,HORROR,8.8,11.0,72
+Alem-i Cin 5: Azap,HORROR,4.3,9.0,76
+Tragic,HORROR,8.9,20.0,96
+The Haunting of Lanquetot,HORROR,3.7,10.0,96
+Scream: The Fan Favorite,HORROR,8.4,17.0,49
+Shoroter Joba,HORROR,4.4,22.0,123
+Amityville Webcam,HORROR,3.8,15.0,102
+Boney Island Reality Show,HORROR,4.2,23.0,87
+The Vent,HORROR,8.9,15.0,3
+Cintihar,HORROR,2.6,10.0,77
+Yagna,HORROR,5.9,1100.0,131
+Protanopia,HORROR,7.3,13.0,75
+Velhan,HORROR,6.2,17.0,77
+La sombra del tiburón,HORROR,6.2,17.0,89
+Horrorathon Volume 3,HORROR,6.0,10.0,93
+Spending Some Time Together,HORROR,6.9,29.0,146
+Krapiva: Tsvetok smerti,HORROR,6.1,56.0,81
+Peccatum,HORROR,1.9,23.0,68
+Cheongsam Merah Darah,HORROR,5.7,11.0,90
+La cárcel Maldita,HORROR,5.4,5.0,87
+Tales of the Forgotten,HORROR,5.8,9.0,170
+Dead Talk Tales: Volume I,HORROR,6.6,27.0,98
+Keo=peul-ji-ok,HORROR,5.6,8.0,94
+Abaasylaakh Khaus,HORROR,7.2,7.0,70
+The Wildman Massacre,HORROR,8.6,37.0,90
+Where the Mountain Women Sing,HORROR,5.9,9.0,15
+Malee,HORROR,3.6,11.0,85
+Naalkane Aayama,HORROR,5.4,1700.0,108
+Jyukinshi,HORROR,3.0,10.0,103
+Mashaarojinn,HORROR,9.0,20.0,99
+Horror Unmasked,HORROR,3.5,18.0,0
+Midnight Perturbation,HORROR,8.6,12.0,81
+Don't Open the Box,HORROR,7.0,8.0,45
+Biswas Villa-An Unfinished Story,HORROR,8.6,21.0,54
+Harruk,HORROR,4.5,22.0,70
+Gentleman Caller,HORROR,8.5,9.0,103
+El Juego 2: La Maldición del Bosque,HORROR,5.7,27.0,97
+I Curse This Land,HORROR,3.9,87.0,86
+Unwelcome Home,HORROR,7.6,7.0,75
+Ciudad Oculta,HORROR,4.5,13.0,96
+On the Trail of Bigfoot: The Ancients,HORROR,6.2,7.0,140
+Once Passed On,HORROR,6.6,7.0,91
+Ahbar,HORROR,3.0,15.0,80
+Neath's Love Story 3,HORROR,6.4,12.0,100
+Project Mutationem: The Second Collection,HORROR,8.1,7.0,103
+Rahha,HORROR,2.7,13.0,135

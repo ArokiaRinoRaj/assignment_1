@@ -1,0 +1,332 @@
+MOVIE_NAME,GENRE,RATINGS,VOTING_COUNTS,DURATION
+Nosferatu,FANTASY,7.2,204000.0,132
+Beetlejuice Beetlejuice,FANTASY,6.6,152000.0,105
+Wicked,FANTASY,7.5,164000.0,160
+The Life of Chuck,FANTASY,7.5,744.0,110
+Moana 2,FANTASY,6.6,106000.0,100
+Flow,FANTASY,7.9,81000.0,85
+Sonic the Hedgehog 3,FANTASY,6.9,63000.0,110
+Parthenope,FANTASY,6.6,13000.0,137
+Better Man,FANTASY,7.6,30000.0,135
+Megalopolis,FANTASY,4.7,37000.0,138
+Transformers One,FANTASY,7.6,53000.0,104
+Inside Out 2,FANTASY,7.5,220000.0,96
+Godzilla x Kong: The New Empire,FANTASY,6.0,123000.0,115
+IF,FANTASY,6.4,59000.0,104
+The Crow,FANTASY,4.7,36000.0,111
+The Lord of the Rings: The War of the Rohirrim,FANTASY,6.3,32000.0,134
+Red One,FANTASY,6.3,141000.0,123
+Ghostbusters: Frozen Empire,FANTASY,6.1,95000.0,115
+Kung Fu Panda 4,FANTASY,6.3,69000.0,94
+The Watchers,FANTASY,5.7,58000.0,102
+Damsel,FANTASY,6.1,110000.0,110
+Uglies,FANTASY,4.7,33000.0,100
+Tim Travers & the Time Travelers Paradox,FANTASY,6.8,295.0,95
+The Wonderful Story of Henry Sugar and Three More,FANTASY,7.1,7400.0,88
+The Garfield Movie,FANTASY,5.7,25000.0,101
+The End,FANTASY,5.5,2200.0,148
+Harold and the Purple Crayon,FANTASY,5.7,8600.0,90
+Solo Leveling: ReAwakening,FANTASY,8.8,13000.0,121
+Kalki 2898 AD,FANTASY,7.0,67000.0,180
+Rebel Moon - Part Two: The Scargiver,FANTASY,5.3,60000.0,122
+Girl Haunts Boy,FANTASY,6.3,3200.0,100
+Spellbound,FANTASY,5.5,7700.0,109
+Monster Summer,FANTASY,5.7,3900.0,97
+Descendants: The Rise of Red,FANTASY,4.7,7200.0,91
+Orion and the Dark,FANTASY,6.3,17000.0,93
+The Master and Margarita,FANTASY,7.2,4800.0,156
+The Tearsmith,FANTASY,5.2,13000.0,103
+Dear Santa,FANTASY,5.4,19000.0,107
+Night of the Zoopocalypse,FANTASY,6.0,841.0,91
+Doraemon the Movie: Nobita's Earth Symphony,FANTASY,6.6,1600.0,115
+The Balconettes,FANTASY,5.9,1200.0,104
+Irish Wish,FANTASY,5.2,22000.0,93
+Happyend,FANTASY,7.0,744.0,113
+Sketch,FANTASY,8.2,61.0,92
+My Future You,FANTASY,7.2,220.0,109
+Family Pack,FANTASY,5.5,9400.0,94
+Justice League: Crisis on Infinite Earths - Part Three,FANTASY,6.1,4700.0,94
+The Black Hole,FANTASY,6.1,201.0,115
+That Christmas,FANTASY,6.8,17000.0,91
+Thelma the Unicorn,FANTASY,5.7,3000.0,93
+Dan Da Dan: First Encounter,FANTASY,8.2,2800.0,83
+Justice League: Crisis on Infinite Earths - Part One,FANTASY,6.2,8700.0,93
+The American Society of Magical Negroes,FANTASY,3.8,12000.0,104
+Hot Frosty,FANTASY,5.3,15000.0,92
+Pedro Páramo,FANTASY,6.3,3100.0,130
+The Best Christmas Pageant Ever,FANTASY,6.8,6200.0,99
+The Invisibles,FANTASY,5.8,529.0,111
+Bhool Bhulaiyaa 3,FANTASY,4.6,78000.0,158
+Ultraman: Rising,FANTASY,6.9,6500.0,117
+Hagen,FANTASY,6.0,1300.0,139
+Justice League: Crisis on Infinite Earths - Part Two,FANTASY,5.6,5500.0,94
+Overlord: The Sacred Kingdom,FANTASY,6.9,1300.0,135
+The Hallowed Knight,FANTASY,6.5,21.0,91
+This Is Me... Now,FANTASY,4.1,7200.0,65
+Ghost Cat Anzu,FANTASY,6.5,837.0,97
+Dragonkeeper,FANTASY,5.8,1700.0,98
+Woodwalkers,FANTASY,5.3,486.0,103
+Buffalo Kids,FANTASY,6.6,747.0,93
+Hanu Man,FANTASY,7.7,29000.0,158
+Dalia and the Red Book,FANTASY,5.9,135.0,107
+The Witch: Revenge,FANTASY,5.3,859.0,100
+A.R.M,FANTASY,7.1,8900.0,150
+Harry Potter and the Stone,FANTASY,7.7,177.0,152
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,FANTASY,7.2,8700.0,104
+Robin and the Hoods,FANTASY,4.3,535.0,100
+Man and Witch: The Dance of a Thousand Steps,FANTASY,5.5,341.0,94
+10 Lives,FANTASY,5.9,2000.0,88
+Cinderella's Revenge,FANTASY,3.8,1200.0,85
+A Fisherman's Tale,FANTASY,6.1,136.0,103
+Cinderella's Curse,FANTASY,3.3,1300.0,82
+Dongeng Sang Kancil,FANTASY,6.7,204.0,99
+The Tiger's Apprentice,FANTASY,5.7,2200.0,84
+Mars,FANTASY,8.4,23.0,84
+Hanami,FANTASY,6.7,122.0,96
+Seven Cemeteries,FANTASY,4.6,644.0,84
+Angels Fallen: Warriors of Peace,FANTASY,4.9,5800.0,103
+Soul Reaper,FANTASY,5.8,302.0,112
+Alienoid: The Return to the Future,FANTASY,6.5,2700.0,122
+Saving Bikini Bottom: The Sandy Cheeks Movie,FANTASY,3.7,4000.0,82
+Thangalaan,FANTASY,6.5,6700.0,156
+The Thundermans Return,FANTASY,5.0,1900.0,70
+Kanguva,FANTASY,4.5,15000.0,152
+Else,FANTASY,6.0,250.0,102
+Balestra,FANTASY,5.1,536.0,145
+Woody Woodpecker Goes to Camp,FANTASY,4.5,2600.0,100
+Panda Bear in Africa,FANTASY,5.5,363.0,84
+Devil's Knight,FANTASY,5.3,946.0,90
+School of Magical Animals 3,FANTASY,5.8,337.0,105
+Super-Charlie,FANTASY,5.9,152.0,80
+Timestalker,FANTASY,5.5,3000.0,89
+Rebellious,FANTASY,6.1,221.0,94
+The Sand Castle,FANTASY,4.7,1700.0,98
+The Ballad of Hortensia,FANTASY,6.7,145.0,94
+Diplodocus,FANTASY,6.3,189.0,90
+Nyctophobia,FANTASY,7.0,1800.0,90
+Cells at Work!,FANTASY,6.7,324.0,109
+200% Wolf,FANTASY,5.9,1300.0,98
+The Night Before Christmas in Wonderland,FANTASY,6.3,525.0,80
+Ryan's World the Movie: Titan Universe Adventure,FANTASY,1.8,710.0,80
+The Sleeping Woman,FANTASY,5.2,588.0,110
+Empire Queen: The Golden Age of Magic,FANTASY,3.2,209.0,148
+Chantal in Fairyland,FANTASY,4.6,2700.0,118
+Oshi no Ko: The Final Act,FANTASY,6.5,154.0,129
+Hold Me Close,FANTASY,5.5,49.0,98
+Mononoke the Movie: The Phantom in the Rain,FANTASY,6.8,1300.0,89
+The Casagrandes Movie,FANTASY,5.6,683.0,89
+The Traveller,FANTASY,5.2,211.0,134
+My Oni Girl,FANTASY,6.0,1800.0,112
+The Keepers of the 5 Kingdoms,FANTASY,4.0,225.0,109
+Unspeakable: Beyond the Wall of Sleep,FANTASY,6.1,58.0,90
+Assassin's Guild,FANTASY,2.9,129.0,103
+¿Quién es quién?,FANTASY,5.3,227.0,95
+White Snake: Afloat,FANTASY,6.9,520.0,133
+Warchief,FANTASY,2.5,612.0,94
+Dragon Ball Z Kai,FANTASY,8.6,79.0,82
+A Dog's Will 2,FANTASY,6.2,3100.0,104
+"Love, Danielle",FANTASY,8.8,42.0,79
+The Opera!,FANTASY,6.4,117.0,106
+Witch,FANTASY,4.9,1400.0,107
+Barroz: Guardian of Treasures,FANTASY,3.4,1000.0,155
+The Secret of Pin-Up Island,FANTASY,7.4,97.0,107
+Mayan,FANTASY,8.6,133.0,113
+Rita,FANTASY,5.7,288.0,107
+Ba,FANTASY,7.7,53.0,79
+Pechi,FANTASY,5.5,1500.0,110
+Elli and the Ghostly Ghost Train,FANTASY,5.0,106.0,86
+Witch Hunter,FANTASY,5.0,25.0,80
+Gaami,FANTASY,6.3,2000.0,147
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,FANTASY,6.6,9.0,55
+Big City Greens the Movie: Spacecation,FANTASY,6.2,559.0,83
+Malaikottai Vaaliban,FANTASY,6.0,4200.0,156
+Ooru Peru Bhairavakona,FANTASY,5.7,1800.0,133
+Schneewittchen,FANTASY,5.4,11.0,70
+Bremenskie muzykanty,FANTASY,4.6,690.0,115
+A Song from the Dark,FANTASY,4.8,2200.0,105
+The Phantom Warrior,FANTASY,2.4,556.0,119
+Niko: Beyond the Northern Lights,FANTASY,6.2,348.0,86
+Intercambiadas,FANTASY,6.1,72.0,97
+Vincent,FANTASY,7.0,62.0,92
+Wedding Diaries,FANTASY,8.9,2000.0,121
+The Proud Princess,FANTASY,6.5,131.0,84
+Spirit World,FANTASY,5.9,62.0,94
+We Work for the Dead,FANTASY,6.6,510.0,84
+Heartsping : Teenieping of Love,FANTASY,7.1,26.0,0
+The Seductress from Hell,FANTASY,6.7,18.0,102
+UmroAyyar - A New Beginning,FANTASY,6.9,674.0,135
+Seven Seas Seven Hills,FANTASY,8.5,94.0,90
+Shrek 5: The Contract - A Fan Made Film,FANTASY,7.0,20.0,84
+The Yin Yang Master Zero,FANTASY,5.7,283.0,112
+STEVE (A Minecraft Movie),FANTASY,6.9,12.0,61
+Princesa Adormecida,FANTASY,3.9,174.0,80
+Double Tuckerr,FANTASY,4.9,1200.0,120
+The Gesuidouz,FANTASY,6.6,81.0,93
+The Fisherman,FANTASY,7.1,45.0,106
+Domovyonok Kuzya,FANTASY,6.5,832.0,90
+All In,FANTASY,5.6,88.0,103
+The Lost Tiger,FANTASY,7.9,49.0,90
+Vertical,FANTASY,5.2,144.0,111
+King Baby,FANTASY,7.0,27.0,88
+SuperKlaus,FANTASY,4.3,204.0,88
+The Epidemic,FANTASY,5.9,71.0,95
+"Die Heinzels: Neue Mützen, Neue Mission",FANTASY,6.4,98.0,76
+The Vord,FANTASY,3.5,68.0,101
+Nonostante,FANTASY,6.1,177.0,93
+Letuchiy korabl,FANTASY,3.8,302.0,100
+Zak & Wowo: The Legend of Lendarys,FANTASY,5.7,103.0,85
+Bhairadevi,FANTASY,8.7,51.0,134
+A Trip Elsewhere,FANTASY,5.5,109.0,93
+The Jester from Transylvania,FANTASY,5.0,38.0,102
+Samaya bolshaya luna,FANTASY,2.5,137.0,105
+Fureru,FANTASY,6.3,37.0,107
+Universal Groove,FANTASY,5.5,172.0,74
+Perdiendo el Juicio,FANTASY,7.6,20.0,90
+The Slave and the Sorcerer,FANTASY,6.7,42.0,86
+Enchanting Christmas,FANTASY,6.4,360.0,91
+Schirkoa: In Lies We Trust,FANTASY,5.6,162.0,103
+The Woods Are Real,FANTASY,2.4,463.0,80
+Saint Young Men: Holy Men vs Demon Army,FANTASY,3.0,14.0,93
+Chhota Bheem and the Curse of Damyaan,FANTASY,4.8,2300.0,145
+Spirit Riser,FANTASY,6.6,35.0,98
+Hakkenden,FANTASY,6.0,80.0,149
+Una ballena,FANTASY,6.1,101.0,108
+Mother Maker Lover Taker,FANTASY,5.6,38.0,99
+Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,FANTASY,6.0,85.0,138
+The Formula for Water,FANTASY,4.6,37.0,86
+"Maya, donne-moi un titre",FANTASY,6.4,60.0,61
+The Sisters,FANTASY,4.7,154.0,122
+Tokusou Sentai Dekaranger 20th: Fireball Booster,FANTASY,7.2,36.0,50
+Letters at Christmas,FANTASY,3.7,175.0,84
+Vampire Genesis,FANTASY,4.3,37.0,105
+Bodegón con fantasmas,FANTASY,6.6,164.0,88
+Ebenezer: The Traveler,FANTASY,3.5,147.0,102
+Naag Bhoomi,FANTASY,5.7,8.0,130
+The Time Travel Hills,FANTASY,5.0,76.0,82
+Si Juki the Movie: Harta Pulau Monyet,FANTASY,6.0,127.0,107
+Videotheque,FANTASY,6.3,103.0,112
+Hiçbir Sey Normal Degil,FANTASY,5.7,84.0,71
+Princess Halle and the Jester,FANTASY,4.8,66.0,71
+Dead Dead Demon's Dededede Destruction,FANTASY,7.1,148.0,120
+The Evil Fairy Queen,FANTASY,5.3,54.0,90
+River of Ghosts,FANTASY,3.0,306.0,102
+Joachim and the Apocalypse,FANTASY,7.5,16.0,90
+Into the Mortal World,FANTASY,6.8,164.0,118
+Ella,FANTASY,9.2,66.0,91
+Dr. Sander's Sleep Cure,FANTASY,7.2,960.0,98
+Kajolrekha,FANTASY,6.3,180.0,156
+"Don't Cry, Butterfly",FANTASY,6.4,123.0,97
+Carol,FANTASY,8.0,51.0,115
+Silent Storms,FANTASY,5.7,24.0,84
+Don Dukun,FANTASY,7.1,57.0,98
+Apollon by Day Athena by Night,FANTASY,6.2,69.0,112
+Fights Break Sphere 3,FANTASY,5.0,10.0,81
+Yao Shen Ling,FANTASY,6.7,68.0,93
+Pushpaka Vimanam,FANTASY,5.6,16.0,137
+Ognivo,FANTASY,5.5,235.0,105
+Two Breaths,FANTASY,7.9,34.0,18
+Fuuto PI: Portrait of Kamen Rider Skull,FANTASY,7.4,47.0,82
+Loch Ness Monster Captured,FANTASY,3.1,33.0,45
+Maya Puthagam,FANTASY,5.4,424.0,122
+Salomé,FANTASY,6.2,9.0,115
+Captain Avispa,FANTASY,5.7,179.0,96
+The Eye of the Salamander,FANTASY,8.4,21.0,81
+Tri bogatyrya. Ni dnya bez podviga,FANTASY,5.7,71.0,61
+Mephisto,FANTASY,5.3,63.0,108
+Traces of Love,FANTASY,6.5,914.0,105
+The Worlds Divide,FANTASY,7.9,40.0,120
+Bloodspawn,FANTASY,6.3,11.0,76
+The Umbrella Fairy,FANTASY,5.7,60.0,95
+Snake Skin Beauty,FANTASY,4.2,20.0,83
+Fidil Ghorm,FANTASY,7.8,8.0,86
+Ienai Himitsu,FANTASY,6.7,71.0,115
+The Beads,FANTASY,6.6,13.0,100
+Maxxie LaWow: Drag Super-shero,FANTASY,8.6,62.0,114
+Aalan,FANTASY,5.5,1100.0,137
+The Heartsmith,FANTASY,9.8,43.0,95
+Lilla spöket Laban spökar igen,FANTASY,6.1,29.0,44
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,FANTASY,7.0,36.0,71
+Sith Wars: Episódio III - Fantasmas Dos Sith,FANTASY,8.7,124.0,99
+The Supernatural Sweet Shop: The Movie,FANTASY,7.2,23.0,103
+Planet 7693,FANTASY,7.6,70.0,110
+Last Song for You,FANTASY,7.2,101.0,106
+Dead Dead Demon's Dededede Destruction Zenpen,FANTASY,7.1,142.0,120
+Apokrif,FANTASY,8.7,22.0,64
+Sun and Moon,FANTASY,5.0,5.0,163
+Nature Cat's Nature Movie Special Extraordinaire,FANTASY,7.3,19.0,53
+10/31 Part 4,FANTASY,5.6,17.0,87
+Vidente por Acidente,FANTASY,4.8,77.0,93
+Witches of God,FANTASY,7.6,17.0,73
+Cedric & Alysia,FANTASY,5.3,52.0,84
+God with Three Eyes,FANTASY,5.8,20.0,112
+Baba Yaga spasaet Novyy god,FANTASY,4.4,122.0,99
+Domovoy,FANTASY,4.3,296.0,102
+Sharma & Ambani,FANTASY,9.1,184.0,104
+Penguin Girl,FANTASY,6.3,17.0,98
+Iron Nest of the Moon,FANTASY,7.6,13.0,70
+Soul Traveler (The Feature),FANTASY,4.2,23.0,96
+Turma da Mônica Jovem: Reflexos do Medo,FANTASY,2.8,259.0,88
+Woof Woof Daddy,FANTASY,6.1,45.0,105
+Advent,FANTASY,7.5,6.0,119
+Wonderland,FANTASY,6.8,13.0,120
+JAPA,FANTASY,7.7,16.0,110
+Fragments of Us,FANTASY,7.2,12.0,49
+Couple in the Woods,FANTASY,5.6,31.0,65
+Black Dragon,FANTASY,3.9,9.0,99
+Sunce nikad vise,FANTASY,7.2,26.0,72
+Bob a Bobek ve filmu: Na stope Mrkvojeda,FANTASY,7.3,31.0,80
+White Cobra Diamond Fox vs the Golden Eye,FANTASY,5.0,25.0,90
+Askepote,FANTASY,3.5,84.0,72
+River Returns,FANTASY,6.7,18.0,109
+Tara - The Lost Star,FANTASY,9.6,11.0,90
+Nueva Tierra,FANTASY,7.6,33.0,123
+The Journey of Flower,FANTASY,3.9,26.0,97
+Princezna na hrásku,FANTASY,5.6,63.0,80
+"Fallen Leaves, Broken Lighters",FANTASY,7.7,8.0,96
+Blue Christmas,FANTASY,5.8,21.0,79
+War of the Ninja Monsters: Jaron vs Goura,FANTASY,4.0,6.0,55
+Achilles Curse and the Curse of Treasure,FANTASY,7.4,25.0,125
+Brush of the God,FANTASY,6.4,14.0,74
+Gato Galactico e o Feitiço do Tempo,FANTASY,7.7,69.0,85
+"The Girl, the Hunter & the Firefly",FANTASY,7.3,19.0,98
+Painted Skin,FANTASY,6.9,54.0,80
+Wanderer,FANTASY,7.0,9.0,46
+Spin the Wheel,FANTASY,6.0,87.0,102
+Mortadella,FANTASY,8.4,8.0,90
+Demon Host,FANTASY,6.4,20.0,80
+Code Duello: From the Tithebanner Saga,FANTASY,8.9,340.0,61
+The Old Man and the Demon Sword,FANTASY,7.6,36.0,63
+Nebesko,FANTASY,5.1,10.0,73
+The Ghost of Annie Lee,FANTASY,4.8,5.0,103
+Xin Longmen kezhan,FANTASY,2.9,7.0,73
+Darker Than Night,FANTASY,4.7,24.0,82
+Supersiostry,FANTASY,4.0,138.0,90
+Fenómenos naturales,FANTASY,7.2,30.0,80
+Sahmeran Efsanesi-Tulhan,FANTASY,6.0,34.0,0
+Lucid Love,FANTASY,8.6,31.0,71
+Nie Xiaoqian,FANTASY,6.2,18.0,112
+Kyle and the Last Emerald 2,FANTASY,8.4,9.0,15
+I Am Moon,FANTASY,8.0,9.0,127
+Horse with No Name,FANTASY,7.8,14.0,72
+Santa's Chimney of Secrets,FANTASY,4.5,24.0,66
+Kyle and the Last Emerald,FANTASY,5.4,18.0,20
+IZLIYORLAR,FANTASY,7.2,32.0,113
+Vasilisa i khraniteli vremeni,FANTASY,3.1,70.0,98
+And Through the Portal We Go,FANTASY,6.8,11.0,83
+UnichtoZhanna,FANTASY,3.3,54.0,98
+Krapiva: Tsvetok smerti,FANTASY,6.1,56.0,81
+"Bryson, the Demon Slayer",FANTASY,4.4,12.0,59
+Chyortov kamen,FANTASY,4.3,20.0,105
+Bicho Monstro,FANTASY,8.0,5.0,75
+Xiao zi,FANTASY,3.5,12.0,101
+Keo=peul-ji-ok,FANTASY,5.6,8.0,94
+LUDA,FANTASY,7.2,6.0,86
+Skazochnyy patrul. Shou prodolzhayetsya,FANTASY,7.2,11.0,65
+Dracu Ra,FANTASY,5.6,41.0,106
+Young doctor's notes,FANTASY,3.5,7.0,86
+Kan dao ling hun de na zhi yan shi gong,FANTASY,3.2,12.0,124
+Velký Pán,FANTASY,7.0,9.0,73
+The Legend of the Cat Demon,FANTASY,4.7,12.0,85
+Let's Go! Anpanman: Baikinman and Lulun,FANTASY,6.5,7.0,64
+Cageling,FANTASY,5.8,8.0,69
+The Blinkless,FANTASY,7.8,12.0,59

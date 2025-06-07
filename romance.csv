@@ -1,0 +1,728 @@
+MOVIE_NAME,GENRE,RATINGS,VOTING_COUNTS,DURATION
+Anora,ROMANCE,7.5,196000.0,139
+Babygirl,ROMANCE,5.9,61000.0,114
+Wicked,ROMANCE,7.5,164000.0,160
+We Live in Time,ROMANCE,7.0,54000.0,108
+The Fall Guy,ROMANCE,6.8,224000.0,126
+The Count of Monte-Cristo,ROMANCE,7.6,36000.0,178
+It Ends with Us,ROMANCE,6.3,87000.0,130
+Queer,ROMANCE,6.4,23000.0,137
+Challengers,ROMANCE,7.0,157000.0,131
+Jane Austen Wrecked My Life,ROMANCE,6.3,370.0,98
+The Idea of You,ROMANCE,6.3,74000.0,115
+Love Lies Bleeding,ROMANCE,6.6,58000.0,104
+A Nice Indian Boy,ROMANCE,7.5,1500.0,96
+On Swift Horses,ROMANCE,6.2,1300.0,119
+The Crow,ROMANCE,4.7,36000.0,111
+Fly Me to the Moon,ROMANCE,6.6,51000.0,132
+Winter Spring Summer or Fall,ROMANCE,6.0,2600.0,97
+My Old Ass,ROMANCE,6.9,40000.0,89
+Ask Me What You Want,ROMANCE,3.8,1100.0,114
+All We Imagine as Light,ROMANCE,7.1,10000.0,118
+A Family Affair,ROMANCE,5.4,37000.0,111
+Beating Hearts,ROMANCE,7.0,5600.0,166
+Emmanuelle,ROMANCE,4.1,1800.0,107
+Young Hearts,ROMANCE,8.0,5200.0,99
+Culpa Tuya,ROMANCE,5.2,14000.0,118
+Turtles All the Way Down,ROMANCE,6.6,7300.0,111
+La cocina,ROMANCE,7.1,3400.0,139
+Sidelined: The QB and Me,ROMANCE,5.9,3900.0,99
+Upgraded,ROMANCE,6.1,30000.0,104
+Bonjour Tristesse,ROMANCE,6.1,269.0,110
+Lilies Not for Me,ROMANCE,7.1,532.0,99
+Your Monster,ROMANCE,6.4,6000.0,103
+Die Alone,ROMANCE,5.7,3600.0,90
+Girl Haunts Boy,ROMANCE,6.3,3200.0,100
+Lisa Frankenstein,ROMANCE,6.1,28000.0,101
+Young Woman and the Sea,ROMANCE,7.5,17000.0,129
+Boot Camp,ROMANCE,5.8,1200.0,94
+Lonely Planet,ROMANCE,5.7,12000.0,94
+Loveable,ROMANCE,7.7,2200.0,101
+Love Me,ROMANCE,5.1,2700.0,91
+The Master and Margarita,ROMANCE,7.2,4800.0,156
+Grand Tour,ROMANCE,6.5,2000.0,129
+The Tearsmith,ROMANCE,5.2,13000.0,103
+Touch,ROMANCE,7.4,5700.0,121
+Sex,ROMANCE,6.5,1300.0,118
+F*** Marry Kill,ROMANCE,5.3,2700.0,97
+Dreams (Sex Love),ROMANCE,7.6,625.0,110
+Lick,ROMANCE,6.2,876.0,75
+Killer Heat,ROMANCE,5.6,14000.0,95
+Mon Potongo,ROMANCE,6.7,426.0,149
+Mother of the Bride,ROMANCE,4.8,17000.0,88
+Find Me Falling,ROMANCE,6.3,13000.0,93
+Mor Chhainha Bhuinya 2,ROMANCE,8.5,100.0,160
+Girls Will Be Girls,ROMANCE,7.1,2700.0,118
+Grafted,ROMANCE,5.6,2500.0,96
+Teri Baaton Mein Aisa Uljha Jiya,ROMANCE,6.2,54000.0,141
+How to Date Billy Walsh,ROMANCE,5.2,4000.0,98
+Role Play,ROMANCE,5.5,19000.0,100
+Our Little Secret,ROMANCE,5.7,24000.0,101
+Love,ROMANCE,7.3,471.0,119
+My Favourite Cake,ROMANCE,7.4,7500.0,97
+Someone Like You,ROMANCE,5.8,2200.0,118
+The Greatest Hits,ROMANCE,6.2,7600.0,94
+Irish Wish,ROMANCE,5.2,22000.0,93
+Love Across Time,ROMANCE,7.1,715.0,60
+My Future You,ROMANCE,7.2,220.0,109
+The Astronaut Lovers,ROMANCE,7.1,827.0,116
+Vulgar,ROMANCE,5.5,161.0,103
+Daniela Forever,ROMANCE,6.1,230.0,113
+High Tide,ROMANCE,6.7,625.0,101
+Beautiful Wedding,ROMANCE,4.1,4300.0,100
+Love in the Big City,ROMANCE,7.4,1600.0,118
+Private Tutor,ROMANCE,4.9,208.0,65
+You Are the Apple of My Eye,ROMANCE,7.0,3600.0,101
+Through My Window: Looking at You,ROMANCE,5.4,5400.0,105
+Romance on the Ranch,ROMANCE,6.8,371.0,88
+Chosen Family,ROMANCE,4.8,480.0,88
+Premalu,ROMANCE,7.8,20000.0,156
+The Family Star,ROMANCE,5.4,5600.0,159
+Turn Me On,ROMANCE,5.6,618.0,99
+The Merry Gentlemen,ROMANCE,4.8,10000.0,87
+Hot Frosty,ROMANCE,5.3,15000.0,92
+Darkest Miriam,ROMANCE,5.8,287.0,87
+Pedro Páramo,ROMANCE,6.3,3100.0,130
+Before We Forget,ROMANCE,7.6,133.0,108
+Maybe Forever,ROMANCE,6.3,87.0,71
+The Best Christmas Pageant Ever,ROMANCE,6.8,6200.0,99
+Another End,ROMANCE,6.4,779.0,119
+Wallbanger,ROMANCE,5.6,699.0,118
+Uranus 2324,ROMANCE,6.4,4900.0,130
+0000 Kilometre,ROMANCE,2.7,189.0,110
+The Southern Chronicles,ROMANCE,8.7,2700.0,120
+Young Werther,ROMANCE,5.6,243.0,101
+Sunlight,ROMANCE,7.6,20.0,96
+Drawing Closer,ROMANCE,7.6,2700.0,118
+This Is Me... Now,ROMANCE,4.1,7200.0,65
+Eks,ROMANCE,4.4,201.0,121
+Addition,ROMANCE,8.3,32.0,91
+Stag,ROMANCE,5.4,471.0,87
+Wanted: Girlfriend,ROMANCE,4.1,232.0,49
+The Swedish Torpedo,ROMANCE,6.3,187.0,120
+Hear Me: Our Summer,ROMANCE,7.5,835.0,109
+Bau: Artist at War,ROMANCE,7.2,62.0,130
+The Glassworker,ROMANCE,7.3,1800.0,98
+Tendaberry,ROMANCE,6.4,221.0,115
+Badaa Saat Fi Yawman Ma,ROMANCE,5.7,201.0,100
+This Time Next Year,ROMANCE,5.6,2300.0,116
+Ashes,ROMANCE,4.3,2600.0,100
+The Dead Thing,ROMANCE,4.8,980.0,94
+Gone Running,ROMANCE,7.0,4300.0,105
+18×2 Beyond Youthful Days,ROMANCE,7.3,2000.0,123
+Blue Sun Palace,ROMANCE,6.6,198.0,116
+Cinderella's Revenge,ROMANCE,3.8,1200.0,85
+Players,ROMANCE,5.7,12000.0,105
+Cinderella's Curse,ROMANCE,3.3,1300.0,82
+Intoxicated by Love,ROMANCE,8.5,13000.0,118
+Swap,ROMANCE,2.9,352.0,86
+Ajosepo,ROMANCE,8.8,64.0,134
+A True Gentleman,ROMANCE,4.5,2200.0,110
+Black Tea,ROMANCE,5.2,582.0,110
+Take My Hand,ROMANCE,6.3,324.0,102
+3391 Kilometres,ROMANCE,4.3,1200.0,110
+Marmalade,ROMANCE,6.3,3700.0,99
+Good Bad Things,ROMANCE,5.7,224.0,96
+Why Do You?,ROMANCE,5.3,449.0,103
+Qalb,ROMANCE,6.5,2400.0,147
+From Contract Lover to the Billionaire's Bride,ROMANCE,6.9,542.0,84
+Plan B,ROMANCE,6.1,1400.0,90
+"Love, Divided",ROMANCE,6.0,4700.0,98
+Love Story,ROMANCE,5.5,424.0,125
+Langue Étrangère,ROMANCE,6.7,527.0,101
+Two to One,ROMANCE,6.1,795.0,116
+Futra Days,ROMANCE,4.2,156.0,99
+El Hawa Sultan,ROMANCE,6.5,782.0,136
+Freedom,ROMANCE,5.9,1400.0,110
+Still Fabulous,ROMANCE,4.9,872.0,92
+Murder Mubarak,ROMANCE,5.8,51000.0,140
+The Groomsmen: First Look,ROMANCE,6.1,395.0,82
+Savi,ROMANCE,6.1,35000.0,126
+Auron Mein Kahan Dum Tha,ROMANCE,6.5,41000.0,150
+Believe in Christmas,ROMANCE,6.1,846.0,90
+Gelin Takimi,ROMANCE,3.8,3800.0,109
+Rasavathi,ROMANCE,6.4,579.0,148
+We're All Gonna Die,ROMANCE,8.2,96.0,110
+C4 Cinta,ROMANCE,8.0,148.0,167
+Mascarpone: The Rainbow Cake,ROMANCE,6.1,519.0,105
+Breakup Season,ROMANCE,6.3,598.0,102
+Wild Wild Punjab,ROMANCE,6.2,16000.0,109
+The Time of Fever,ROMANCE,8.0,699.0,101
+Three Friends,ROMANCE,6.6,782.0,117
+Passport to Love,ROMANCE,6.2,415.0,88
+5lbs of Pressure,ROMANCE,5.2,1700.0,111
+Else,ROMANCE,6.0,250.0,102
+City Hunter,ROMANCE,6.3,5700.0,102
+Haunted Heart,ROMANCE,4.8,496.0,128
+Her Story,ROMANCE,7.6,1900.0,123
+Phir Aayi Hasseen Dillruba,ROMANCE,5.8,6900.0,132
+Given 3: To the Sea,ROMANCE,7.9,105.0,80
+Umjolo: The Gone Girl,ROMANCE,4.4,280.0,92
+My Ex's Wedding,ROMANCE,8.6,49.0,95
+Amar Singh Chamkila,ROMANCE,7.8,16000.0,145
+Meet Me Next Christmas,ROMANCE,5.7,8600.0,105
+Timestalker,ROMANCE,5.5,3000.0,89
+Do Aur Do Pyaar,ROMANCE,6.4,12000.0,140
+Tillu Square,ROMANCE,6.6,3400.0,137
+A Brooklyn Love Story,ROMANCE,6.4,110.0,107
+The Air He Breathes,ROMANCE,6.4,391.0,106
+Siddharth Roy,ROMANCE,6.3,2900.0,148
+Música,ROMANCE,6.4,5100.0,91
+My Name Is Loh Kiwan,ROMANCE,6.7,4400.0,131
+Silent Love,ROMANCE,6.4,405.0,116
+Ibbani Tabbida Ileyali,ROMANCE,7.4,853.0,160
+Éden & Charlie,ROMANCE,8.1,12.0,45
+Five Blind Dates,ROMANCE,5.1,2000.0,83
+Art of Love,ROMANCE,4.6,2400.0,99
+Guilty Pleasure,ROMANCE,4.5,162.0,119
+First Taste,ROMANCE,5.8,303.0,97
+Bad Newz,ROMANCE,4.7,26000.0,142
+Karma's a Bitch,ROMANCE,4.5,38.0,89
+Ek Anjaan Rishtey Ka Guilt 3,ROMANCE,7.9,68.0,104
+Reversi,ROMANCE,7.1,263.0,135
+Undergrads,ROMANCE,5.3,59.0,66
+"Love, Wine & Salt: A Tuscan Romance",ROMANCE,5.5,60.0,80
+Previously Saved Version,ROMANCE,5.4,444.0,117
+Love Switch,ROMANCE,6.1,260.0,89
+Hold Me Close,ROMANCE,5.5,49.0,98
+Kang Mak,ROMANCE,6.4,860.0,122
+Goyo,ROMANCE,6.6,2300.0,106
+The Silence of Marcos Tremmer,ROMANCE,5.9,175.0,112
+Los pequeños amores,ROMANCE,6.3,358.0,95
+Mr. Manhattan,ROMANCE,6.8,462.0,110
+Angithee 3,ROMANCE,8.0,62.0,99
+Detective Conan: The Million-Dollar Pentagram,ROMANCE,6.7,1500.0,111
+Viva La Vida,ROMANCE,7.5,856.0,130
+Layla,ROMANCE,6.1,412.0,100
+Mai,ROMANCE,6.8,1500.0,131
+Perfect Endings,ROMANCE,5.6,206.0,100
+"Hello, Love, Again",ROMANCE,6.7,914.0,122
+Greice,ROMANCE,6.9,133.0,110
+Ipar Adalah Maut,ROMANCE,7.0,1300.0,131
+She Taught Love,ROMANCE,5.3,422.0,102
+Mr. Bachchan,ROMANCE,3.6,5300.0,150
+Kacher Manush Dure Thuiya,ROMANCE,7.8,1100.0,144
+Naam,ROMANCE,6.3,283.0,136
+Dandelion,ROMANCE,5.3,411.0,113
+White Snake: Afloat,ROMANCE,6.9,519.0,133
+Pantaskah Aku Berhijab,ROMANCE,7.9,70.0,114
+Anyone But Her,ROMANCE,4.9,292.0,93
+Books & Drinks,ROMANCE,5.4,137.0,94
+Murphy,ROMANCE,7.1,2400.0,136
+A Circus Tale & a Love Song,ROMANCE,6.0,108.0,114
+The Everything Pot,ROMANCE,7.5,35.0,90
+Love at 39 Degrees,ROMANCE,5.5,1400.0,115
+Bed & Breakfast,ROMANCE,6.1,214.0,83
+Varshangalkku Shesham,ROMANCE,6.6,4200.0,166
+Shigatsu ni nareba kanojo wa,ROMANCE,6.2,447.0,108
+The Holiday Club,ROMANCE,6.6,385.0,88
+Kill Me If You Dare,ROMANCE,4.6,1300.0,94
+Love Lies,ROMANCE,7.1,346.0,114
+Sicilian Holiday,ROMANCE,4.7,20.0,102
+Svemu dodje kraj,ROMANCE,6.4,352.0,89
+When in Rome,ROMANCE,6.1,762.0,98
+Ask Mevsimi,ROMANCE,5.0,394.0,126
+Teasing Master Takagi-san Movie,ROMANCE,6.6,328.0,119
+Sweet Summer Love,ROMANCE,6.5,70.0,90
+Queens of Drama,ROMANCE,6.3,207.0,114
+Marry Christmas,ROMANCE,6.6,63.0,85
+A Toast to Love,ROMANCE,5.7,135.0,89
+Drained,ROMANCE,4.5,321.0,107
+Fake Boyfriend,ROMANCE,9.0,18.0,115
+Rajkumar,ROMANCE,7.4,2700.0,145
+Khwaabon Ka Jhamela,ROMANCE,5.4,112.0,113
+X & Y,ROMANCE,7.4,16.0,101
+Krista,ROMANCE,5.7,53.0,58
+El Roomie,ROMANCE,5.8,310.0,99
+Bachhala Malli,ROMANCE,8.2,3900.0,140
+The Groomsmen: Second Chances,ROMANCE,6.1,454.0,84
+Azzamine,ROMANCE,7.0,116.0,104
+My Boo,ROMANCE,6.1,711.0,125
+Love Reddy,ROMANCE,8.0,2300.0,138
+No Pressure,ROMANCE,5.1,1100.0,111
+Aaram Aravinda Swamy,ROMANCE,9.3,329.0,132
+Samana Sunrise,ROMANCE,5.0,231.0,100
+"LSD 2: Love, Sex Aur Dhokha 2",ROMANCE,3.8,2800.0,119
+Atashi no!,ROMANCE,7.4,5.0,102
+Chanchal Haseena,ROMANCE,7.4,36.0,98
+Boys on Film 24: Happy Endings,ROMANCE,7.0,29.0,174
+Oshana,ROMANCE,5.7,798.0,149
+Christmas in the Spotlight,ROMANCE,5.7,677.0,87
+In Good Hands 2,ROMANCE,5.3,988.0,99
+Switch Up,ROMANCE,8.6,29.0,105
+Pure Love,ROMANCE,7.1,191.0,109
+Miracle Mile,ROMANCE,9.1,30.0,82
+Romeo,ROMANCE,6.1,1300.0,150
+Honeymoonish,ROMANCE,5.3,1600.0,100
+Happiness Is,ROMANCE,3.9,303.0,96
+The Holiday Exchange,ROMANCE,5.6,415.0,90
+Beauty and the Billionaire: Bali,ROMANCE,5.8,221.0,91
+Pasutri Gaje,ROMANCE,6.0,348.0,109
+A '90s Christmas,ROMANCE,6.0,1100.0,90
+Choices,ROMANCE,4.4,6.0,87
+Pon Ondru Kanden,ROMANCE,5.6,281.0,120
+Honey Money Phony,ROMANCE,6.2,206.0,115
+Ciao bambino,ROMANCE,6.6,87.0,100
+Across the Sea,ROMANCE,6.5,79.0,112
+Jatt & Juliet 3,ROMANCE,5.4,1800.0,135
+Life is Filled with So Much of You,ROMANCE,7.2,71.0,99
+Her Seyin Basi Merkür,ROMANCE,2.8,164.0,105
+Meet Me in Rome,ROMANCE,5.2,687.0,85
+Sex Love Venice,ROMANCE,5.2,332.0,102
+¿Quién quiere casarse con un Astronauta?,ROMANCE,7.5,17.0,94
+Trisha on the Rocks,ROMANCE,5.2,3000.0,172
+Liu mang qu mo shi,ROMANCE,5.7,50.0,104
+One Night in Tokyo,ROMANCE,7.2,84.0,95
+Premalo,ROMANCE,7.3,1100.0,128
+Chainsaws Were Singing,ROMANCE,7.2,382.0,117
+Miss You,ROMANCE,6.1,3200.0,128
+Shark Island,ROMANCE,3.2,117.0,81
+The Heartbreak Agency,ROMANCE,5.3,737.0,94
+Under Parallel Skies,ROMANCE,5.6,837.0,110
+O Melhor Amigo,ROMANCE,7.2,71.0,96
+Albany Road,ROMANCE,7.6,111.0,135
+Powder Pup,ROMANCE,6.1,78.0,89
+"Love, Sitara",ROMANCE,5.3,304.0,105
+Deyaler Desh,ROMANCE,6.9,130.0,139
+Meeting Ms. Leigh,ROMANCE,9.0,80.0,117
+Paper Flowers,ROMANCE,8.7,35.0,100
+Seré breve al momento de morir,ROMANCE,6.1,43.0,78
+Dreaming of You,ROMANCE,8.7,48.0,95
+Fruitcake,ROMANCE,5.3,161.0,97
+Love You to Debt,ROMANCE,6.2,765.0,135
+The Great Gujarati Matrimony,ROMANCE,7.7,86.0,144
+Love Me If You Dare,ROMANCE,4.3,479.0,128
+My Boyfriend Is a Sex Worker,ROMANCE,5.4,17.0,50
+Onegin,ROMANCE,7.0,1200.0,141
+Alterlove,ROMANCE,8.1,14.0,90
+The Private Eye,ROMANCE,3.8,159.0,115
+Rose Rosy Te Gulab,ROMANCE,5.8,305.0,135
+The Glory of Life,ROMANCE,6.6,445.0,98
+Perfect Match,ROMANCE,6.6,340.0,101
+Explosions in My Heart,ROMANCE,6.9,37.0,105
+Say a Little Prayer,ROMANCE,8.6,46.0,103
+Joli joli,ROMANCE,5.5,122.0,116
+The Proud Princess,ROMANCE,6.5,131.0,84
+Verliefd op Bali,ROMANCE,5.0,313.0,113
+The Mediterranean Sea,ROMANCE,7.2,90.0,108
+Lobola Man,ROMANCE,4.6,211.0,108
+Little Hearts,ROMANCE,5.8,2200.0,136
+Hearts Creek,ROMANCE,5.8,124.0,90
+Heartsping : Teenieping of Love,ROMANCE,7.1,26.0,0
+"María, Me Muero",ROMANCE,5.1,113.0,93
+Throuple,ROMANCE,6.6,69.0,92
+Un/Happy for You,ROMANCE,5.6,403.0,110
+Seven Seas Seven Hills,ROMANCE,8.5,94.0,90
+I Brake for Caterpillars,ROMANCE,3.8,28.0,93
+Petta Rap,ROMANCE,4.2,1700.0,123
+Pool & Party,ROMANCE,2.7,255.0,90
+Dhruvathaare,ROMANCE,8.0,647.0,165
+Oru Kattil Oru Muri,ROMANCE,4.6,61.0,125
+Maru Mann Taru Thayu,ROMANCE,7.5,23.0,153
+Shrek 5: The Contract - A Fan Made Film,ROMANCE,7.0,20.0,84
+Christmas at Plumhill Manor,ROMANCE,6.1,505.0,87
+Sevmek Yüzünden,ROMANCE,3.6,647.0,104
+Noche De Bodas,ROMANCE,4.5,241.0,90
+The Architecture of Love,ROMANCE,6.9,503.0,110
+Omenavarkaat,ROMANCE,7.1,186.0,84
+Love Is Never on Time,ROMANCE,8.8,60.0,110
+Paalum Pazhavum,ROMANCE,4.9,179.0,147
+Game On,ROMANCE,5.2,2300.0,140
+Stranded Pearl,ROMANCE,6.0,27.0,90
+A Merry Royal Christmas,ROMANCE,5.3,154.0,88
+Rabb Da Radio 3,ROMANCE,6.8,7.0,122
+Love Unlike in K-Dramas,ROMANCE,6.5,131.0,118
+Him,ROMANCE,7.2,22.0,80
+"Till Then, Hanna!",ROMANCE,6.1,311.0,110
+Dilan 1983,ROMANCE,6.4,236.0,116
+Heavens x Candy,ROMANCE,6.2,46.0,70
+Love Li,ROMANCE,6.4,13000.0,168
+A European Christmas,ROMANCE,4.7,196.0,90
+Kisko Tha Pata,ROMANCE,7.5,18.0,135
+O2,ROMANCE,6.6,7900.0,105
+Writing a Love Song,ROMANCE,6.7,189.0,85
+Forbidden Love,ROMANCE,7.6,29.0,96
+Samudrudu,ROMANCE,6.9,2000.0,141
+What Happened in My Black Boyfriend's Room,ROMANCE,5.4,9.0,62
+Hi Anokhi Gaath,ROMANCE,6.7,81.0,126
+Elevator,ROMANCE,5.1,171.0,95
+Gili Gili Raat,ROMANCE,5.7,12.0,93
+Love... Reconsidered,ROMANCE,4.2,137.0,88
+Momma's Boy,ROMANCE,3.8,48.0,105
+Movie Given Hiiragi Mix.,ROMANCE,7.6,210.0,70
+À toute allure,ROMANCE,5.4,211.0,86
+Yesterday Is Almost Here,ROMANCE,8.1,11.0,92
+Moments We Shared,ROMANCE,5.4,124.0,131
+Midwinter,ROMANCE,6.6,57.0,95
+Young Lion of the West,ROMANCE,5.2,108.0,93
+L'heureuse élue,ROMANCE,5.4,290.0,91
+Super Happy Forever,ROMANCE,6.8,211.0,94
+Roti Kapda Romance,ROMANCE,5.9,2500.0,153
+Yuva,ROMANCE,5.8,843.0,153
+Letuchiy korabl,ROMANCE,3.8,302.0,100
+ISHQ (Don't Fall in Love),ROMANCE,10,6.0,131
+Maple Leaf Dreams,ROMANCE,5.3,130.0,101
+Saint Nick of Bethlehem,ROMANCE,9.0,103.0,93
+Kahan Shuru Kahan Khatam,ROMANCE,6.1,3100.0,107
+Amar Prem Ki Prem Kahani,ROMANCE,4.4,656.0,117
+"Aku Jati, Aku Asperger",ROMANCE,7.8,83.0,88
+Christmas in Lagos,ROMANCE,4.7,179.0,120
+Zenithal,ROMANCE,5.4,85.0,80
+8 Views of Lake Biwa,ROMANCE,5.2,131.0,126
+Prabuthwa Junior Kalashala,ROMANCE,7.0,2100.0,131
+"Sampai Jumpa, Selamat Tinggal",ROMANCE,6.6,7.0,109
+Kupu-Kupu Kertas,ROMANCE,6.5,210.0,113
+Kagojer Bou,ROMANCE,5.8,30.0,112
+We Are Faheem & Karun,ROMANCE,9.1,65.0,81
+Perdiendo el Juicio,ROMANCE,7.6,20.0,90
+Sihina Nelum Mal,ROMANCE,8.0,34.0,105
+Enchanting Christmas,ROMANCE,6.4,360.0,91
+The Love Buzz,ROMANCE,5.7,166.0,100
+In the Summer Rain,ROMANCE,6.7,12.0,129
+I Am the Secret in Your Heart,ROMANCE,6.1,211.0,112
+Yeni Hayat,ROMANCE,2.9,36.0,132
+Love Stuck,ROMANCE,5.7,161.0,116
+DeAr,ROMANCE,5.1,1300.0,132
+You Are Not Alone,ROMANCE,6.1,72.0,105
+Love Mouli,ROMANCE,6.5,84.0,146
+"Aire, Just Breathe",ROMANCE,4.8,197.0,98
+Holiday for Hire,ROMANCE,5.8,195.0,84
+Benaam Rishta,ROMANCE,6.8,11.0,90
+My Sassy Girl,ROMANCE,5.0,137.0,117
+Bigayan,ROMANCE,6.2,45.0,43
+¿Vienes o Voy?,ROMANCE,6.7,19.0,94
+Christmas on the Ranch,ROMANCE,6.0,138.0,86
+Honeko Akabane's Bodyguards,ROMANCE,5.9,42.0,117
+Mi Perfecto Ex,ROMANCE,7.6,19.0,83
+Emakku Thozhil Romance,ROMANCE,4.9,131.0,111
+Ahl Al Kahf,ROMANCE,5.3,279.0,120
+Future Date,ROMANCE,5.5,129.0,82
+Assisting Venus,ROMANCE,6.2,27.0,100
+Jingle Bell Love,ROMANCE,6.1,219.0,81
+Looking for Dr. Love,ROMANCE,6.0,131.0,85
+Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,ROMANCE,6.0,85.0,138
+Valentine's Town,ROMANCE,5.2,197.0,84
+Take Good Care,ROMANCE,6.4,5.0,101
+Bewafa Darling,ROMANCE,8.6,14.0,56
+Seni Memahami Kekasih,ROMANCE,8.0,63.0,91
+"Dao, Pho Va Piano",ROMANCE,5.8,210.0,100
+A Bluegrass Christmas,ROMANCE,6.0,239.0,84
+Do I Shock U Like Lightning,ROMANCE,8.6,26.0,97
+Lyubvi ne byvaet?,ROMANCE,5.4,161.0,105
+Election,ROMANCE,5.8,804.0,120
+Shooting My Life's Script,ROMANCE,6.2,342.0,95
+Raseeli Raatein,ROMANCE,6.4,11.0,91
+Visal Adare,ROMANCE,6.0,147.0,120
+Le beau rôle,ROMANCE,6.6,99.0,84
+Valley of the Shadow of Death,ROMANCE,5.3,19.0,84
+Umjolo: Day Ones,ROMANCE,4.1,161.0,86
+Letters at Christmas,ROMANCE,3.7,175.0,84
+40,ROMANCE,3.9,26.0,103
+Me and My Victim,ROMANCE,3.3,9.0,100
+Bad Boy in Love,ROMANCE,8.9,17.0,91
+Marriage Mansion,ROMANCE,8.6,25.0,0
+The Property,ROMANCE,7.4,57.0,110
+Reloaded 2,ROMANCE,7.6,1200.0,45
+The Lifeguards,ROMANCE,3.8,143.0,107
+Double Blended,ROMANCE,5.6,55.0,87
+Sign Here,ROMANCE,6.2,246.0,100
+Günesi Söndürmem Gerek,ROMANCE,3.6,191.0,105
+Poppay Ki Wedding,ROMANCE,8.7,79.0,127
+Komandir,ROMANCE,6.4,531.0,131
+That Kind of Love,ROMANCE,5.7,331.0,136
+PAPmusic - Animation for Fashion,ROMANCE,1.0,162.0,85
+Welcome to My Side,ROMANCE,7.2,93.0,102
+Bar MoskvaChiki,ROMANCE,5.1,106.0,91
+36-24-36,ROMANCE,6.0,226.0,118
+Ondu Sarala Prema Kathe,ROMANCE,7.6,718.0,149
+Jee Ve Sohneya Jee,ROMANCE,6.6,263.0,141
+Funmilayo Ransome-Kuti,ROMANCE,8.5,97.0,91
+Love Syndrome: The Beginning,ROMANCE,6.1,57.0,90
+A Mountain Between Us,ROMANCE,5.3,34.0,89
+Babli,ROMANCE,6.9,569.0,134
+ON i Ona,ROMANCE,4.6,81.0,90
+Ma chi ti conosce,ROMANCE,5.9,140.0,105
+"Chances Are, You and I",ROMANCE,6.1,142.0,132
+Ibiza Dark,ROMANCE,8.4,18.0,95
+A Soweto Love Story,ROMANCE,4.4,285.0,101
+Once Upon a Honeymoon,ROMANCE,7.0,23.0,109
+How to Make Love,ROMANCE,2.8,12.0,65
+Christmas Overtime,ROMANCE,5.3,26.0,92
+Pretty Boys,ROMANCE,5.4,34.0,67
+Joy of Horses,ROMANCE,5.9,172.0,90
+Sihinayaki Adare,ROMANCE,6.5,192.0,150
+Ancika,ROMANCE,6.8,810.0,100
+Heartbreak Motel,ROMANCE,7.0,310.0,115
+Coven of the Black Cube,ROMANCE,7.4,21.0,97
+Hrashwo Deergha,ROMANCE,7.0,97.0,150
+14 Days Love,ROMANCE,6.9,11.0,112
+A Thousand Faces,ROMANCE,8.7,138.0,85
+Black Owner and Horny College Girls,ROMANCE,3.6,9.0,65
+Kajolrekha,ROMANCE,6.3,180.0,156
+On the Market,ROMANCE,4.0,8.0,95
+Boda Love,ROMANCE,7.2,17.0,107
+Gharjwai,ROMANCE,7.2,880.0,134
+Lady Outlaw,ROMANCE,6.4,22.0,104
+Hell City,ROMANCE,9.1,27.0,90
+Vaagai,ROMANCE,7.9,176.0,119
+Goreyan Naal Lagdi Zameen Jatt Di,ROMANCE,7.8,28.0,108
+Could Have Waited for August,ROMANCE,6.2,853.0,112
+Nado snimat filmy o lyubvi,ROMANCE,7.3,34.0,73
+Skinny Love,ROMANCE,8.1,98.0,92
+Usha Parinayam,ROMANCE,9.0,2100.0,144
+Yumi's Cells: The Movie,ROMANCE,6.2,53.0,93
+Stalker,ROMANCE,3.0,8.0,91
+Majnoo,ROMANCE,9.6,61.0,123
+Uang Panai' 2 Maha(r)l,ROMANCE,7.7,42.0,106
+Nikdo me nemá rád,ROMANCE,5.7,45.0,84
+Addy Daddy,ROMANCE,7.4,31.0,118
+Hidden Flora,ROMANCE,7.2,18.0,93
+Yo no soy esa,ROMANCE,4.9,286.0,95
+Real Estate Sisters,ROMANCE,4.4,30.0,84
+Three Secrets,ROMANCE,4.2,50.0,92
+Land of Broken Hearts,ROMANCE,6.3,198.0,100
+Love Mocktail 2,ROMANCE,8.8,3000.0,140
+Heart Strings,ROMANCE,5.5,13.0,107
+La piel en primavera,ROMANCE,6.9,51.0,100
+Parahuna 2,ROMANCE,6.6,84.0,115
+Morando com o Crush,ROMANCE,5.4,182.0,90
+Die Ironie des Lebens,ROMANCE,6.6,76.0,109
+Keshava Chandra Ramavath,ROMANCE,6.7,78.0,133
+Swoon,ROMANCE,5.6,18.0,83
+Once Upon A Love Story,ROMANCE,7.5,83.0,135
+Buk Poketer Golpo,ROMANCE,7.9,225.0,95
+"It's So Big It Hurts, Black Oppa",ROMANCE,5.6,9.0,61
+Colour Palette,ROMANCE,9.4,49.0,87
+Artist Unknown,ROMANCE,8.5,19.0,82
+Vidya Vasula Aham,ROMANCE,6.6,92.0,102
+Rokjesnacht,ROMANCE,4.8,236.0,95
+A Heart for Christmas,ROMANCE,7.6,102.0,91
+All's Fair in Love,ROMANCE,6.6,18.0,115
+Yolki 11,ROMANCE,4.7,177.0,92
+Kuch Sapney Apne,ROMANCE,8.0,50.0,120
+Koi wo Shiranai Bokutachi wa,ROMANCE,4.9,9.0,111
+A Christmas of Wonders,ROMANCE,4.8,128.0,86
+Youth in Trouble,ROMANCE,7.8,27.0,106
+More na dvoikh,ROMANCE,5.0,26.0,82
+A Christmas Dream,ROMANCE,4.8,52.0,94
+Your 1/2 of the Rent,ROMANCE,7.2,20.0,105
+Last Defenders of Monogamy,ROMANCE,5.3,393.0,84
+Table for Six 2,ROMANCE,5.4,330.0,133
+Lyubov Sovetskogo Soyuza,ROMANCE,5.1,287.0,150
+Keluar Main 1994,ROMANCE,7.8,54.0,112
+Hong lou meng,ROMANCE,5.0,28.0,120
+Traces of Love,ROMANCE,6.5,914.0,105
+B4S: Truoc Gio Yeu,ROMANCE,5.7,63.0,97
+Love at First Lie,ROMANCE,4.4,38.0,107
+Honeymoon Express,ROMANCE,6.8,2100.0,118
+Our Church Thinks We're Dating,ROMANCE,7.5,59.0,102
+Morena,ROMANCE,5.5,119.0,106
+The Umbrella Fairy,ROMANCE,5.7,60.0,95
+Royal Runaways,ROMANCE,8.2,37.0,0
+Timing,ROMANCE,7.7,64.0,138
+Der Junge dem die Welt gehört,ROMANCE,7.9,77.0,96
+Pranaya Godari,ROMANCE,7.8,2400.0,148
+Kaaduvetty,ROMANCE,3.2,148.0,157
+Alaap,ROMANCE,6.1,116.0,145
+Ienai Himitsu,ROMANCE,6.7,71.0,115
+The Little Things,ROMANCE,7.7,42.0,90
+Juni,ROMANCE,7.3,225.0,138
+Palasher Biye,ROMANCE,6.6,48.0,99
+Lula Leblanc,ROMANCE,6.7,43.0,96
+Every You Every Me,ROMANCE,6.5,145.0,108
+The Choice,ROMANCE,9.5,8.0,40
+The Christmas Brew,ROMANCE,5.4,154.0,89
+Daghabaaz Dil,ROMANCE,6.6,72.0,123
+Raju Gari Ammayi Naidu Gari Abbayi,ROMANCE,8.2,3100.0,158
+Greytown Girl,ROMANCE,4.7,18.0,120
+Mendung tanpo udan,ROMANCE,6.2,25.0,101
+"Step Back, Doors Closing",ROMANCE,9.0,41.0,98
+Amo-te Imenso,ROMANCE,5.8,88.0,87
+Puang Bos!,ROMANCE,8.2,11.0,100
+Ai zuo dai,ROMANCE,6.0,51.0,78
+Teriyaan Meriyaan Hera Pheriyan,ROMANCE,6.7,75.0,125
+Soft Love,ROMANCE,6.6,37.0,114
+Allahr Vres,ROMANCE,8.2,18.0,135
+SottoCoperta,ROMANCE,7.6,83.0,96
+Lyod 3,ROMANCE,6.0,309.0,134
+Maunam,ROMANCE,8.5,46.0,106
+Bedtime Stories: Tales of Love and Hate,ROMANCE,7.7,15.0,65
+Amaltash,ROMANCE,8.1,152.0,113
+Jaunt,ROMANCE,8.7,8.0,78
+Neath's Love Story,ROMANCE,7.6,52.0,106
+iKHlaas,ROMANCE,8.1,17.0,50
+Last Song for You,ROMANCE,7.2,101.0,106
+A Fragile Flower,ROMANCE,7.8,1600.0,96
+Forget Me Not,ROMANCE,6.5,146.0,89
+Ayo Balikan,ROMANCE,7.0,29.0,86
+My Zombabe,ROMANCE,4.8,92.0,105
+The Gift That Gives,ROMANCE,5.9,69.0,81
+Royal Façade,ROMANCE,8.5,58.0,95
+I Love You 2,ROMANCE,8.1,174.0,160
+Adam i Eva,ROMANCE,5.1,96.0,95
+Elle & lui & le reste du monde,ROMANCE,5.8,114.0,85
+Kailasa Kasidre,ROMANCE,5.7,1000.0,124
+Hope's Hollywood Christmas,ROMANCE,8.9,30.0,90
+Kanni,ROMANCE,8.3,153.0,122
+Ye xiao nü sheng,ROMANCE,7.1,50.0,110
+Listy do M. Pozegnania i powroty,ROMANCE,6.0,332.0,123
+Katlaa Curry,ROMANCE,9.4,26.0,110
+The Mercedes Story: A Troubled Soul,ROMANCE,7.6,21.0,128
+Tauba Tera Jalwa,ROMANCE,5.8,16.0,130
+For Regn,ROMANCE,3.8,565.0,140
+#OOTD: Outfit of the Designer,ROMANCE,5.6,47.0,107
+Cedric & Alysia,ROMANCE,5.3,52.0,84
+Happiness,ROMANCE,5.3,16.0,118
+Undying,ROMANCE,6.7,14.0,26
+Abhi,ROMANCE,8.1,46.0,135
+Ravikula Raghurama,ROMANCE,8.0,2100.0,111
+Tilottoma,ROMANCE,8.2,27.0,98
+Dr. Jason II - Lights & Shadows,ROMANCE,4.9,331.0,62
+Surjo,ROMANCE,7.8,14.0,155
+Dukkhito,ROMANCE,7.4,70.0,29
+The Perfect Him,ROMANCE,5.1,20.0,90
+Video Vision,ROMANCE,5.8,20.0,78
+Penguin Girl,ROMANCE,6.3,17.0,98
+Wrooklyn Zoo,ROMANCE,5.4,143.0,129
+Eating Me Up,ROMANCE,8.1,296.0,104
+Dhaaak,ROMANCE,8.6,24.0,128
+Advent,ROMANCE,7.5,6.0,119
+Khoka Bhai Tama Pain: A Song Epic,ROMANCE,8.8,158.0,153
+Unarvugal Thodarkadhai,ROMANCE,6.4,53.0,111
+Because I Love Bad Weather,ROMANCE,6.1,148.0,100
+Eksie Perfeksie,ROMANCE,6.4,22.0,103
+Roman Peony,ROMANCE,8.2,10.0,132
+Buzzy Noise,ROMANCE,6.0,60.0,119
+Konjam Pesinaal Yenna,ROMANCE,7.1,67.0,112
+Cinta Dari Timor,ROMANCE,5.3,24.0,82
+Apsara,ROMANCE,7.1,33.0,150
+Booking,ROMANCE,7.6,67.0,29
+Fragments of Us,ROMANCE,7.2,12.0,49
+Love in the Time of Corona,ROMANCE,4.2,99.0,100
+Haunted Happy Hour,ROMANCE,7.9,17.0,89
+Suchana,ROMANCE,8.7,511.0,90
+Zyat,ROMANCE,4.3,113.0,80
+Guxim,ROMANCE,7.2,37.0,75
+Muzhchina i zhenshchina,ROMANCE,5.3,32.0,116
+Mehabooba,ROMANCE,7.0,247.0,147
+Apaixonada,ROMANCE,4.3,141.0,95
+Just Pass,ROMANCE,6.7,211.0,136
+Dona Lurdes: O Filme,ROMANCE,6.1,113.0,90
+Market Mahalakshmi,ROMANCE,4.2,2300.0,133
+Gecenin Nakarati,ROMANCE,7.3,25.0,104
+Vstretimsya vchera,ROMANCE,6.3,348.0,79
+I Hate You,ROMANCE,7.8,2000.0,117
+Kadin Kafasi,ROMANCE,3.1,42.0,93
+Fujimi Lovers,ROMANCE,6.0,47.0,103
+Dinda,ROMANCE,6.7,41.0,94
+Our Christmas House,ROMANCE,5.5,46.0,77
+This Is Not A Love Song,ROMANCE,7.1,42.0,72
+Uralochka,ROMANCE,3.7,95.0,95
+To potami,ROMANCE,6.2,21.0,93
+On+Ona,ROMANCE,7.5,14.0,93
+The Journey of Flower,ROMANCE,3.9,26.0,97
+Maaya Ka Moh,ROMANCE,3.7,17.0,90
+Before Marriage,ROMANCE,7.9,1100.0,112
+ONENESS,ROMANCE,9.4,20.0,115
+A Wall Away,ROMANCE,4.9,76.0,90
+L'invenzione di noi due,ROMANCE,4.7,38.0,106
+Lázaro de noche,ROMANCE,5.2,30.0,76
+My Cannibal Crush,ROMANCE,6.3,12.0,50
+Zehan,ROMANCE,4.9,26.0,113
+"Fallen Leaves, Broken Lighters",ROMANCE,7.7,8.0,96
+Chow Chow Bath,ROMANCE,7.1,1200.0,110
+Ben and Suzanne: A Reunion in 4 Parts,ROMANCE,8.0,23.0,109
+Scorned Waifu,ROMANCE,4.6,13.0,135
+La Pura Vida,ROMANCE,8.9,23.0,89
+Romeo Ingkar Janji,ROMANCE,7.1,18.0,113
+"I Love You, to the Moon, and Back",ROMANCE,6.0,83.0,105
+Inheritance to Love,ROMANCE,9.2,33.0,88
+Jak ukradlem 100 milionów,ROMANCE,3.4,100.0,90
+Mezhdu nami leto,ROMANCE,5.7,56.0,113
+Son Sans,ROMANCE,4.9,13.0,86
+Lucky Heart,ROMANCE,4.8,10.0,90
+Mortadella,ROMANCE,8.4,8.0,90
+Life Hotel,ROMANCE,6.6,157.0,118
+RadhaaMadhavam,ROMANCE,7.5,1300.0,117
+Juliette & Roméo,ROMANCE,5.7,12.0,50
+If My Lover Were a Flower,ROMANCE,8.5,8.0,110
+The Delegator,ROMANCE,4.1,17.0,96
+Lyubov so vtorogo vzglyada,ROMANCE,4.7,74.0,97
+Cholay,ROMANCE,8.5,76.0,60
+Mercy Killing,ROMANCE,8.7,2700.0,131
+Pher Mamlaa Gadbad Hai,ROMANCE,5.2,31.0,126
+The First Lecture,ROMANCE,9.0,11.0,55
+Yentha Panichesav Chanti,ROMANCE,9.5,85.0,135
+Kulturnaya komediya,ROMANCE,5.5,90.0,95
+Smart Casuals,ROMANCE,5.3,43.0,96
+Sangharshana,ROMANCE,7.3,1600.0,102
+Bring Back the Colour,ROMANCE,6.4,8.0,47
+The Claddagh,ROMANCE,7.4,8.0,88
+Mr. Engineer and Miss Doctor,ROMANCE,5.4,9.0,40
+Sneaking Around,ROMANCE,8.7,23.0,80
+Extra,ROMANCE,7.0,12.0,28
+Güle-Güle,ROMANCE,6.2,7.0,118
+Pithala Maathi,ROMANCE,7.6,843.0,140
+Maya: The Love,ROMANCE,6.3,17.0,139
+A Very Bayou Holiday,ROMANCE,5.2,11.0,87
+Wo xiang han ni zai yi qi,ROMANCE,5.5,24.0,100
+Vyberi menya,ROMANCE,4.9,64.0,87
+Boomerang,ROMANCE,6.4,16.0,83
+Topolinyy pukh,ROMANCE,5.4,136.0,83
+Zorawar Di Jacqueline,ROMANCE,5.5,1000.0,147
+Ninaivellam Neeyada,ROMANCE,5.2,32.0,155
+Podrostki. Pervaya lyubov,ROMANCE,5.8,57.0,102
+Lucid Love,ROMANCE,8.6,31.0,71
+10 Pasimatymu,ROMANCE,5.9,29.0,99
+Sovsem oshaleli,ROMANCE,4.1,63.0,93
+Reeza GTR,ROMANCE,6.9,16.0,91
+Love Love,ROMANCE,9.0,7.0,61
+Nie Xiaoqian,ROMANCE,6.2,18.0,112
+Vtroyom,ROMANCE,4.8,66.0,90
+Labyrinth,ROMANCE,4.7,18.0,100
+I 20,ROMANCE,9.0,494.0,114
+Biz Ayrilamayiz,ROMANCE,3.8,37.0,107
+Ona tantsuet,ROMANCE,8.8,10.0,85
+Ramana Avatara,ROMANCE,8.1,36.0,136
+Licença para Enlouquecer,ROMANCE,7.8,14.0,95
+Shesh Rokkha,ROMANCE,4.8,18.0,109
+Dil Kush,ROMANCE,8.5,545.0,135
+The Haunting of Lanquetot,ROMANCE,3.7,10.0,96
+Chu Lay Aasman,ROMANCE,9.0,12.0,120
+Neath's Love Story 2,ROMANCE,7.3,23.0,88
+How to Operate a Polaroid Camera,ROMANCE,6.4,5.0,6
+Chicken Factory,ROMANCE,4.0,25.0,123
+Pravo na levo,ROMANCE,3.7,39.0,88
+Mezhdu nami,ROMANCE,5.1,35.0,93
+Chetyre chetverti,ROMANCE,7.8,12.0,152
+Colegio Girassol,ROMANCE,7.9,14.0,60
+Lyubov zla,ROMANCE,6.3,404.0,83
+Vremya est!,ROMANCE,5.6,12.0,74
+Dua Surga Dalam Cintaku,ROMANCE,7.8,7.0,111
+Cedo Demais,ROMANCE,4.3,26.0,90
+Papu mame zaverni,ROMANCE,3.6,70.0,106
+Gaiyan,ROMANCE,6.1,16.0,35
+Ini Oru Kadhal Seivom,ROMANCE,5.7,23.0,109
+Byvshiy v pomoshch,ROMANCE,5.0,79.0,90
+Killer Baby Daddy,ROMANCE,3.9,14.0,78
+A Lovely Résumé,ROMANCE,9.2,7.0,70
+Gap Lai Chi Bau,ROMANCE,5.7,47.0,114
+Keo=peul-ji-ok,ROMANCE,5.6,8.0,94
+Tokhon Jokhon,ROMANCE,7.2,13.0,63
+Mandya Haida,ROMANCE,6.3,231.0,139
+Tochka opory,ROMANCE,4.0,25.0,101
+Rodnya,ROMANCE,6.7,11.0,99
+Yurka,ROMANCE,4.2,32.0,85
+Avantyura,ROMANCE,5.6,16.0,90
+Avassaladoras 2.0,ROMANCE,3.2,29.0,94
+Bienvenidos al paraíso,ROMANCE,4.7,23.0,100
+Berta y Pablo,ROMANCE,7.3,6.0,61
+Hu Tara Vina Kai Nai,ROMANCE,9.3,15.0,125
+Tui Ke Amar,ROMANCE,6.6,6.0,114
+The Legend of the Cat Demon,ROMANCE,4.7,12.0,85
+Osompurno,ROMANCE,9.6,13.0,59
+Much to Tell,ROMANCE,7.8,6.0,108
+Lukochuri,ROMANCE,7.0,11.0,127
+Tomari Sathe,ROMANCE,8.0,8.0,54
+Vy menya videli?,ROMANCE,5.0,52.0,80
+Borjatri,ROMANCE,8.4,6.0,72
